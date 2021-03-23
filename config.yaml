@@ -23,7 +23,7 @@ params:
       - label: Sign Up
         url: /signup
         style: primary
-      - label: lorem-ipsum
+      - label: About Us
         url: '#'
         style: link
         has_icon: false
