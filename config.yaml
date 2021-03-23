@@ -77,7 +77,7 @@ params:
             default_value: Enter email address
             is_required: true
         submit_label: Subscribe
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Terms of Service
         url: /terms-of-service
