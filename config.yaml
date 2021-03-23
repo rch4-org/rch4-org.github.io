@@ -8,7 +8,7 @@ params:
     logo_img_alt: Logo
     has_nav: true
     nav_links:
-      - label: Medical
+      - label: Home
         url: /
         style: link
       - label: Features
