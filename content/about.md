@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: A charity group providing a LAS drug for free
+subtitle: A charity group providing a ALS drug for free
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
