@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: RCH4 <br /> A new ALS drug
+    title: RCH4  A new ALS drug
   - section_id: features
     type: section_features
     background: gray
