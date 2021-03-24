@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    title: RCH4
   - section_id: features
     type: section_features
     background: gray
