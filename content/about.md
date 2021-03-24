@@ -34,5 +34,5 @@ layout: page
 We are an informal charity group of retired scientists with lifetimes of experience in membrane osmosis and immunity research.​
 A scientist in our group discovered a previously unknown agent (referred to as \`MRCH\`) which is produced by the body and which promotes ALS (aka MND). ​​​ We have designed a drug which safely stops production of the problem agent. 
 
-We never ask PALS or the public for money. We always funded treatment personally and with help from friends.​
+We never ask PALS or the public for money. We always funded treatment personally and with help from friends.​ 
 As a charity, we also try to obtain, worldwide, voluntary unpaid domestic help for PALS and their care givers when they are in a crises
