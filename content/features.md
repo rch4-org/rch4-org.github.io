@@ -4,7 +4,6 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: RCH4 - a new ALS drug
     content: "## At a glance\n\n*   For 86% of ALS/MND patients, progression is slowed by 65% therefore\_a ~ threefold increase in life\_expectancy. No other drug can do\_this.\n\n*   The evidence is from >80 continual patient-treatement-years.\n\n*   There are no related side effects.\n\n*   For 16% of these subjects,\_on average it safely stabilises their condition for\_years.\n\n*   Provided\_free of charge by this charity (when funding is available)\_to anyone asking for help.\n\n*   14% of RCH4 patients\_are non-responders, i.e. RCH4 has no effect for them.\n\n*   ​Unfortunately, it is not a cure and no cure exists yet.\n"
