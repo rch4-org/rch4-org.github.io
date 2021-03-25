@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: RCH4 -
+    title: RCH4 - a new ALS drug
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
