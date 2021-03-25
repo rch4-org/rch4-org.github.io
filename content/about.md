@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-We are an informal charity group of retired scientists with lifetimes of experience in membrane osmosis and immunity research.​A scientist in our group discovered a previously unknown agent (referred to as "MRCH") which is produced by the body and which promotes ALS (aka MND). ​​​ We have designed a drug which safely stops production of the problem agent. 
+We are an informal charity group of retired scientists with lifetimes of experience in membrane osmosis and immunity research.​ A scientist in our group discovered a previously unknown agent (referred to as "MRCH") which is produced by the body and which promotes ALS (aka MND). ​​​ We have designed a drug which safely stops production of the problem agent. 
 
 We never ask PALS or the public for money. We always funded treatment personally and with help from friends.​ As a charity, we also try to obtain, worldwide, voluntary unpaid domestic help for PALS and their care givers when they are in a crises
 
@@ -51,7 +51,7 @@ With no interest from the Pharma Industry or from the ALS research community, a
 
 2.  The funding to treat patients would have to voluntarily come from our own personal resources on a charitable, humanitarian basis. In view of the catastrophic nature of the condition, the lack of any effective treatment and the fact that we were very confident that the drug should work better than anything ever seen before, the decision had to be a foregone conclusion: we must pay for, and provide the drug, ourselves.
 
-Efficacy comparisons of the only drugs that may or do work can be seen on the [About the drug](/page/about_the_drug) page. 
+Efficacy comparisons of the only drugs that may or do work can be seen on the [About the drug](/page/about_the_drug) page.
 
 The drug is made for us to our specification under contract by a major manufacturer of prescription drugs. As very large amounts of money have now been spent on developing this drug, and treating PALS free of charge, we will not be able to do clinical trials in the foreseeable future.
 We have no overheads, no paid staff or offices, and we work from our own homes. We receive no material benefit whatever from our ALS efforts.​ We have no beneficial interest in, and do not own, the IP.
