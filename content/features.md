@@ -40,7 +40,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: FAQ
+  - section_id: faq
     title: FAQ
     subtitle: lorem-ipsum
     background: gray
