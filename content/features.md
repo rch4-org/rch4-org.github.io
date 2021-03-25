@@ -41,7 +41,7 @@ sections:
     actions: []
     type: section_content
   - section_id: FAQ
-    title: lorem-ipsum
+    title: FAQ
     subtitle: lorem-ipsum
     background: gray
     faq_items:
