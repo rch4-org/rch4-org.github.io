@@ -39,7 +39,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/11_thumb.jpg
 seo:
   title: Features
   description: This is the features page
