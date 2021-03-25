@@ -40,27 +40,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: faq
-    title: FAQ
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        type: faq_item
-    type: section_faq
 seo:
   title: Features
   description: This is the features page
