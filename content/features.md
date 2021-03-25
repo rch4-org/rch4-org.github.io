@@ -15,6 +15,15 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
