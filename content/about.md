@@ -45,5 +45,4 @@ At various times, outstanding clinical data was brought to the attention of oth
 We were ignored.​ 
 
 **In general:**
-Many of the world\`s pre-eminent neurologists were contacted and RCH4 was met either with hostility or they failed to reply.​
-We tried to get assistance from Globally known Philanthropists, and the ALS funding sources. Repeatedly they declined to help us. ​No more could be done.
+Many of the world\`s pre-eminent neurologists were contacted and RCH4 was met either with hostility or they failed to reply.​ We tried to get assistance from Globally known Philanthropists, and the ALS funding sources. Repeatedly they declined to help us. ​No more could be done.
