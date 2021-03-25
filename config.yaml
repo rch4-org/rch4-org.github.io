@@ -21,7 +21,7 @@ params:
         url: /style-guide
         style: link
       - label: About Us
-        url: '#'
+        url: /about
         style: link
         has_icon: false
         icon: arrow-left
