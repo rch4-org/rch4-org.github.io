@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/rch4_chart_6months.png
     image_alt: App preview
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: "A previously unknown problem protein has been discovered.\n\nA\_specifically\_designed new ALS drug, RCH4,\_successfully suppresses it\n"
     actions:
       - label: Learn More
         url: /features
