@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/rch4_chart_6months.png
     image_alt: App preview
-    content: "## A previously unknown problem protein has been discovered.  &#xA;A\_specifically\_designed new ALS drug, RCH4,\_successfully suppresses it\n"
+    content: "#### A previously unknown problem protein has been discovered.  &#xA;A\_specifically\_designed new ALS drug, RCH4,\_successfully suppresses it\n"
     actions:
       - label: Learn More
         url: /features
