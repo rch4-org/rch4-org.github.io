@@ -53,17 +53,12 @@ sections:
     background: gray
     faq_items:
       - question: Is this a cure
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          No cure exists
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Radicava: No
+          *   Riluzole: No
+          *   RCH4: No
         type: faq_item
     type: section_faq
 seo:
