@@ -217,7 +217,7 @@ sections:
           legal or clinical contra-indication issues or charity lack of funds to
           treat more PALS
         type: faq_item
-      - question: '"Patient Like Me" '
+      - question: '"Patient Like Me" independent website reported efficacy'
         answer: >-
           ## Lorem ipsum
 
