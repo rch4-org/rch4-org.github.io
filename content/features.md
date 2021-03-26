@@ -29,7 +29,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: rch4-efficacy
+  - section_id: efficacy
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
