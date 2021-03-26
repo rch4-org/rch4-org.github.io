@@ -132,7 +132,7 @@ sections:
 
           *   **Radicava:** Clinical trials, data provided by the manufacturer
 
-          *   **RCH4:** Patient own monthly monitoring reports**
+          *   **RCH4:** Patient own monthly monitoring reports
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
