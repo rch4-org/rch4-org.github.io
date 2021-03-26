@@ -48,7 +48,7 @@ sections:
     actions: []
     type: section_content
   - section_id: comparaison
-    title: compar
+    title: Compar
     subtitle: lorem-ipsum
     background: gray
     faq_items:
