@@ -94,17 +94,12 @@ sections:
 
         type: faq_item
       - question: What is the dose form?
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          *   **Riluzole:** Usually oral tablet
 
+          *   **Radicava:** Venous infusion
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** Muscle injection
         type: faq_item
     type: section_faq
 seo:
