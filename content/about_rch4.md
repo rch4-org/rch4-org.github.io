@@ -203,9 +203,7 @@ sections:
           *   **RCH4:** No relevant side effects reported.  
               Note: supply of RCH4 got withdrawn for some due to use of suspected counterfeit Radicava and the danger of the side effects due to the counterfeits. The only reports of side effects were from those who were using other counterfeit ALS drugs.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Exclusion criteria applied when selecting patients?
         answer: >-
           ## Lorem ipsum
 
