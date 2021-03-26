@@ -22,7 +22,7 @@ sections:
       - label: Get Started
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
+  - section_id: safety
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
