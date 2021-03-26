@@ -48,7 +48,7 @@ sections:
     actions: []
     type: section_content
   - section_id: comparaison
-    title: Comparaison
+    title: Comparaisons
     subtitle: >-
       each question is expandable and will be comparing Riluzole, Radicava and
       RCH4
