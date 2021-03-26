@@ -58,8 +58,8 @@ sections:
         answer: |
           *No cure exists*
 
-          *   **Radicava:** No
           *   **Riluzole:** No
+          *   **Radicava:** No
           *   **RCH4:** No
         type: faq_item
       - question: Is ALSFRS-R score decline rate slowed? i.e does is extend life?
