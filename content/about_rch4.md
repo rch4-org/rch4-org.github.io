@@ -50,7 +50,7 @@ sections:
   - section_id: comparaison
     title: Comparaison
     subtitle: >-
-      each question is expandable and will be compared acrross Riluzole,
+      each question is expandable and will be compared accross Riluzole,
       Radicava and RCH4
     background: gray
     faq_items:
