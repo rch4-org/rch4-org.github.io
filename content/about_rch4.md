@@ -50,8 +50,8 @@ sections:
   - section_id: comparaison
     title: Comparaison
     subtitle: >-
-      each question is expandable and will be compared accross Riluzole,
-      Radicava and RCH4
+      each question is expandable and will be comparing Riluzole, Radicava and
+      RCH4
     background: gray
     faq_items:
       - question: Is this a cure
