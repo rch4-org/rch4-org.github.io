@@ -64,8 +64,6 @@ sections:
         type: faq_item
       - question: Is ALSFRS-R score decline rate slowed? i.e does is extend life?
         answer: |
-          *No cure exists*
-
           *   **Riluzole:** No / uncertain.
               However it extends time to tracheostomy by 90 days.
 
