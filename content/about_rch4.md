@@ -150,9 +150,7 @@ sections:
 
           *   **RCH4:** Yes
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Is Mode Of Action understood?
         answer: >-
           ## Lorem ipsum
 
