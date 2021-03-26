@@ -49,7 +49,7 @@ sections:
     type: section_content
   - section_id: comparaison
     title: Comparaison
-    subtitle: lorem-ipsum
+    subtitle: 'each '
     background: gray
     faq_items:
       - question: Is this a cure
