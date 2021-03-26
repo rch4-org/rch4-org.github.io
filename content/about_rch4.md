@@ -135,17 +135,12 @@ sections:
           *   **RCH4:** Patient own monthly monitoring reports
         type: faq_item
       - question: Years of continuous treatment?
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          *   **Riluzole:** Yes
 
+          *   **Radicava:** No (as in 2017)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** Yes
         type: faq_item
     type: section_faq
 seo:
