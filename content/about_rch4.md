@@ -126,7 +126,7 @@ sections:
 
               *1: source Forbes*
         type: faq_item
-      - question: Source of efficacy data
+      - question: Source of efficacy data?
         answer: >-
           ## Lorem ipsum
 
