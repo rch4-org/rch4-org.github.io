@@ -47,7 +47,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
+  - section_id: comparaison
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
