@@ -41,7 +41,7 @@ sections:
     actions: []
     type: section_content
   - section_id: comaprison
-    title: lorem-ipsum
+    title: Comparaisons
     subtitle: lorem-ipsum
     background: gray
     features: []
