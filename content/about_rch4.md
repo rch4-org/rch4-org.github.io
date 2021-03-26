@@ -41,7 +41,7 @@ sections:
     actions: []
     type: section_content
   - section_id: comparaison
-    title: lorem-ipsum
+    title: Comparaisons with other treatments
     content: >-
       ## Lorem ipsum
 
