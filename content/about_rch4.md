@@ -47,7 +47,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: comparaison
+  - section_id: comparison
     title: Comparaisons
     subtitle: >-
       each question is expandable and will be comparing Riluzole, Radicava and
