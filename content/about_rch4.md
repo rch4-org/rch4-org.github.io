@@ -63,17 +63,17 @@ sections:
           *   **RCH4:** No
         type: faq_item
       - question: Is ALSFRS-R score decline rate slowed? I.E Does is extend life?
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          *No cure exists*
 
+          *   **Riluzole:** No / uncertain.
+              However it extends time to tracheostomy by 90 days.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **Radicava:** Yes / uncertain.
+              Effective in 7% of PALS. Theoretically yes but now in doubt. Application withdrawn in Europe in 2019
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** Yes / certain.
+              Effective in 85% of PALS. Life expectancy increased by threefold. It has no effect for 15% of those who take it.
         type: faq_item
     type: section_faq
 seo:
