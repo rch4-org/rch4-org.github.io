@@ -12,7 +12,7 @@ params:
         url: /
         style: link
       - label: About RCH4
-        url: /features
+        url: /about_rch4
         style: link
       - label: Pricing
         url: /pricing
