@@ -79,7 +79,7 @@
   }
 
   .cell {
-    text-align: left;
+    text-align: center;
     ul {
         text-align: left;
     }
@@ -168,9 +168,6 @@
   .hero-block,
   .text-block,
   .features-block {
-    .cell {
-        text-align: center;
-    }
     .underline {
       &:after {
         display: none;
@@ -181,9 +178,6 @@
 
 // Cta block
 .cta-block {
-    .cell {
-        text-align: left;
-    }
   .block-title {
     margin-bottom: 0.25em;
   }
