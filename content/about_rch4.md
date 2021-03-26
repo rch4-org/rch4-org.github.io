@@ -176,17 +176,15 @@ sections:
 
           *   **RCH4:** Yes - A specific B-cell sub-set lipid raft receptor
       - question: What was the drug developed for?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          *   **Riluzole:** Epilepsy, i.e Riluzole is a repurposed drug.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **Radicava:** Stroke victims, ie. Radicava is a re-purposed drug.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** ALS/MND, RCH4 is the first successful drug developed
+          specifically to treat ALS/MND
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
