@@ -186,9 +186,7 @@ sections:
           *   **RCH4:** ALS/MND, RCH4 is the first successful drug developed
           specifically to treat ALS/MND
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Number of patient treatment
         answer: >-
           ## Lorem ipsum
 
