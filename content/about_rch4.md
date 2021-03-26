@@ -93,7 +93,7 @@ sections:
           *   **RCH4:** No
 
         type: faq_item
-      - question: 'What is the dose form, frequency'
+      - question: What is the dose form and frequency
         answer: |
           *   **Riluzole:** Usually oral tablet
 
