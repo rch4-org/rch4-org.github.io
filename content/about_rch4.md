@@ -56,11 +56,11 @@ sections:
     faq_items:
       - question: Is this a cure
         answer: |
-          No cure exists
+          *No cure exists*
 
-          *   Radicava: No
-          *   Riluzole: No
-          *   RCH4: No
+          *   **Radicava: **No
+          *   **Riluzole: **No
+          *   **RCH4:** No
         type: faq_item
     type: section_faq
 seo:
