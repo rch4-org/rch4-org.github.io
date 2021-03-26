@@ -113,9 +113,7 @@ sections:
               **Dose at home:** Yes
               **Clinic visits required:** No
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: What is the monthly cost?
         answer: >-
           ## Lorem ipsum
 
