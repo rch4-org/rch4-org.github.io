@@ -219,7 +219,7 @@ sections:
         type: faq_item
       - question: >-
           Independent patient reports of percieved efficacy of ALS drugs on
-          `Patients Like Me` independent website
+          "Patients Like Me` independent website
         answer: >-
           ## Lorem ipsum
 
