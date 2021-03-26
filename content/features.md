@@ -30,7 +30,7 @@ sections:
     actions: []
     type: section_content
   - section_id: efficacy
-    title: lorem-ipsum
+    title: Efficacy
     content: >-
       ## Lorem ipsum
 
