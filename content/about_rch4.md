@@ -114,17 +114,17 @@ sections:
               **Clinic visits required:** No
         type: faq_item
       - question: What is the monthly cost?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          *   **Riluzole:** ~ $1,000 \[1]
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **Radicava:** ~ $12,000 for USA, ~$3,000 for Japan \[1]
 
 
-          - Lorem ipsum
+          *   **RCH4:** No cost / free of charge, provided by this charity if or
+          when sufficient funding is available.
 
-          - dolor sit amet
+              *1: source Forbes*
         type: faq_item
     type: section_faq
 seo:
