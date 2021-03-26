@@ -168,6 +168,7 @@
   .hero-block,
   .text-block,
   .features-block {
+    text-align: left;
     .underline {
       &:after {
         display: none;
