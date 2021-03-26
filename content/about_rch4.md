@@ -74,7 +74,7 @@ sections:
               Effective in 85% of PALS. Life expectancy increased by threefold. It has no effect for 15% of those who take it.
         type: faq_item
       - question: 'If so, slowed by what percentage?'
-        answer: "*   **Riluzole:** Perhaps 6%\n\n*   **Radicava:** 33%\n    PALS\_meeting\_a special criteria \\[7% of \_PALS] in 6 months clinical trial in Japan in 2016. The 93% which\_were non-responders in the previous failed trial were excluded\n\n*   **RCH4:** 70.3%\n    When the 15% non-responders in the whole treated population from 2014\_to 2017 are excluded, i.e., same exclusions as Radicava to allow direct comparison. \n"
+        answer: "*   **Riluzole:** Perhaps 6%\n\n*   **Radicava:** 33%  \n    PALS\_meeting\_a special criteria \\[7% of \_PALS] in 6 months clinical trial in Japan in 2016. The 93% which\_were non-responders in the previous failed trial were excluded\n\n*   **RCH4:** 70.3%  \n    When the 15% non-responders in the whole treated population from 2014\_to 2017 are excluded, i.e., same exclusions as Radicava to allow direct comparison.\n"
         type: faq_item
     type: section_faq
 seo:
