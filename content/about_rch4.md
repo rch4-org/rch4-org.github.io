@@ -187,17 +187,12 @@ sections:
           specifically to treat ALS/MND
         type: faq_item
       - question: Number of patient treatment-years?
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          *   **Riluzole:** Many thousand of years of patient self dosing
 
+          *   **Radicava:** 6 month clinical trial
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** 82 treatment-years of patient self dosing
         type: faq_item
     type: section_faq
 seo:
