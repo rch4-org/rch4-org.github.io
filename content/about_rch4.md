@@ -62,9 +62,7 @@ sections:
           *   **Riluzole: **No
           *   **RCH4:** No
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Is ALSFRS-R score decline rate slowed?
         answer: >-
           ## Lorem ipsum
 
