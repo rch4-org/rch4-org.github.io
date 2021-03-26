@@ -62,7 +62,7 @@ sections:
           *   **Riluzole:** No
           *   **RCH4:** No
         type: faq_item
-      - question: Is ALSFRS-R score decline rate slowed? i.edoes is extend life?
+      - question: Is ALSFRS-R score decline rate slowed? i.e does is extend life?
         answer: |
           *No cure exists*
 
