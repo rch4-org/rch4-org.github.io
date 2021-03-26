@@ -217,7 +217,9 @@ sections:
           legal or clinical contra-indication issues or charity lack of funds to
           treat more PALS
         type: faq_item
-      - question: '"Patient Like Me" independent website reported efficacy?'
+      - question: >-
+          Independent patient reports of percieved efficacy of ALS drugs on
+          `Patients Like Me` independent website
         answer: >-
           ## Lorem ipsum
 
