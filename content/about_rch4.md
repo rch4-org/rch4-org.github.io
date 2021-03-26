@@ -220,17 +220,7 @@ sections:
       - question: >-
           Independent patient reports of percieved efficacy of ALS drugs on
           "Patients Like Me" independent website
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "| Evaluation of efficacy →\_| Major | Moderate | Slight | None | Cannot tell |\n|------------------------ | ----- | --------- | ------ | ----- | ---------- |\n| Riluzole                                  | 3%     | 6%             | 8%       | 15%    | 68%            |\n| Radicava                               |            | 17%            | 18%     | 20%   | 45%            |\n| RCH$                                     | 77%    | 18%            |             |            | 5%               |\n"
         type: faq_item
     type: section_faq
 seo:
