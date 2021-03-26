@@ -23,7 +23,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: safety
-    title: lorem-ipsum
+    title: Safety
     content: >-
       ## Lorem ipsum
 
