@@ -143,17 +143,12 @@ sections:
           *   **RCH4:** Yes
         type: faq_item
       - question: Any ALSFRS-R efficacy charts published?
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          *   **Riluzole:** No
 
+          *   **Radicava:** Yes
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** Yes
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
