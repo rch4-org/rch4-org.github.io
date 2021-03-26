@@ -169,6 +169,12 @@ sections:
         type: faq_item
       - question: Is there a specific target?
         type: faq_item
+        answer: |
+          *   **Riluzole:** No. Systemic.
+
+          *   **Radicava:** No. Systemic.
+
+          *   **RCH4:** Yes - A specific B-cell sub-set lipid raft receptor
     type: section_faq
 seo:
   title: Features
