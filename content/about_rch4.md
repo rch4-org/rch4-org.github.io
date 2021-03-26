@@ -151,17 +151,17 @@ sections:
           *   **RCH4:** Yes
         type: faq_item
       - question: Is Mode Of Action understood?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          *   **Riluzole:** No / Uncertain.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **Radicava:** No  - "*The mechanism by which Radicava exerts its
+          therapeutic effect in patients with ALS is unknown" - Source *[*FDA
+          package*](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/209176Orig1s007.pdf)*
+          page 6*
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** Yes - A specific B-cell sub-set lipid raft receptor
         type: faq_item
     type: section_faq
 seo:
