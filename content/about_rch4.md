@@ -51,7 +51,7 @@ sections:
     title: Comparaison
     subtitle: >-
       each question is expandable and will be compared acrross Riluzole,
-      Radivica and RCH4
+      Radicava and RCH4
     background: gray
     faq_items:
       - question: Is this a cure
