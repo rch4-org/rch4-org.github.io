@@ -40,7 +40,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
+  - section_id: comaprison
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
