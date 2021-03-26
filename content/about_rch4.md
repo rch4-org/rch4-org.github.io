@@ -126,9 +126,7 @@ sections:
 
               *1: source Forbes*
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Source of efficacy data
         answer: >-
           ## Lorem ipsum
 
