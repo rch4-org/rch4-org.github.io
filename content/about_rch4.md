@@ -75,6 +75,21 @@ sections:
           *   **RCH4:** Yes / certain.
               Effective in 85% of PALS. Life expectancy increased by threefold. It has no effect for 15% of those who take it.
         type: faq_item
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
 seo:
   title: Features
