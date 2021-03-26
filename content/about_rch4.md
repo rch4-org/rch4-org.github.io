@@ -161,7 +161,9 @@ sections:
           page 6*
 
 
-          *   **RCH4:** Yes - A specific B-cell sub-set lipid raft receptor
+          *   **RCH4:** Yes - RCH4 is the very first drug specifically made for
+          ALS. A first-in-class treatment evidencing unparalleled safety and
+          efficacy in slowing ALS progression
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
