@@ -134,9 +134,7 @@ sections:
 
           *   **RCH4:** Patient own monthly monitoring reports
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Years of continuous treatment?
         answer: >-
           ## Lorem ipsum
 
