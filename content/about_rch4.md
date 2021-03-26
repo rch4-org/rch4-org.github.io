@@ -217,9 +217,7 @@ sections:
           legal or clinical contra-indication issues or charity lack of funds to
           treat more PALS
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: 'Patient Like Me '
         answer: >-
           ## Lorem ipsum
 
