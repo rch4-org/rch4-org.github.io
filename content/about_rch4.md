@@ -175,7 +175,7 @@ sections:
           *   **Radicava:** No. Systemic.
 
           *   **RCH4:** Yes - A specific B-cell sub-set lipid raft receptor
-      - question: 'What was the drug developed '
+      - question: What was the drug developed for?
         answer: >-
           ## Lorem ipsum
 
