@@ -29,9 +29,6 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: Sign Up
-        url: /signup
-        style: primary
   footer:
     sections:
       - type: footer_text
