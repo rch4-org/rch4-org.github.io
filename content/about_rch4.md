@@ -93,7 +93,7 @@ sections:
           *   **RCH4:** No
 
         type: faq_item
-      - question: Dose form
+      - question: What is the dose form?
         answer: >-
           ## Lorem ipsum
 
