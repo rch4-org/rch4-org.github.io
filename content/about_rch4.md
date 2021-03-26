@@ -194,9 +194,7 @@ sections:
 
           *   **RCH4:** 82 treatment-years of patient self dosing
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Serious side effects reported?
         answer: >-
           ## Lorem ipsum
 
