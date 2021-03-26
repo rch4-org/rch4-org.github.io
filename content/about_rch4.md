@@ -204,17 +204,18 @@ sections:
               Note: supply of RCH4 got withdrawn for some due to use of suspected counterfeit Radicava and the danger of the side effects due to the counterfeits. The only reports of side effects were from those who were using other counterfeit ALS drugs.
         type: faq_item
       - question: Exclusion criteria applied when selecting patients?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          *   **Riluzole:** unknown
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **Radicava:** Yes -  Some 93% excluded as they did not meet the
+          required criteria including FVC > 80%, Decline < 1.3, Live
+          independently, etc.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **RCH4:** No, everyone is accepted, subject to drug availability,
+          legal or clinical contra-indication issues or charity lack of funds to
+          treat more PALS
         type: faq_item
     type: section_faq
 seo:
