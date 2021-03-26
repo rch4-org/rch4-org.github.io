@@ -165,9 +165,7 @@ sections:
           ALS. A first-in-class treatment evidencing unparalleled safety and
           efficacy in slowing ALS progression
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Is there a specific target?
         answer: >-
           ## Lorem ipsum
 
