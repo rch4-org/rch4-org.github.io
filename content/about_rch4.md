@@ -85,17 +85,13 @@ sections:
           *   **RCH4:** Unlicensed
         type: faq_item
       - question: FDA Orphan Drug status?
-        answer: >-
-          ## Lorem ipsum
+        answer: |+
+          *   **Riluzole:** Yes
 
+          *   **Radicava:** Yes
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **RCH4:** No
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         type: faq_item
     type: section_faq
 seo:
