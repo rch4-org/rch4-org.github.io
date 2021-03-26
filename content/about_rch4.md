@@ -64,7 +64,7 @@ sections:
         type: faq_item
       - question: |-
           Is ALSFRS-R score decline rate slowed?
-          (
+          (ie.
         answer: >-
           ## Lorem ipsum
 
