@@ -49,7 +49,7 @@ With no interest from the Pharma Industry or from the ALS research community, a
 
 2.  The funding to treat patients would have to voluntarily come from our own personal resources on a charitable, humanitarian basis. In view of the catastrophic nature of the condition, the lack of any effective treatment and the fact that we were very confident that the drug should work better than anything ever seen before, the decision had to be a foregone conclusion: we must pay for, and provide the drug, ourselves.
 
-Efficacy comparisons of the only drugs that may or do work can be seen on the [About the drug](/page/about_the_drug) page.
+Efficacy comparisons of the only drugs that may or do work can be seen on the [About RCH4](/page/about_rch4) page.
 
 The drug is made for us to our specification under contract by a major manufacturer of prescription drugs. As very large amounts of money have now been spent on developing this drug, and treating PALS free of charge, we will not be able to do clinical trials in the foreseeable future.
 We have no overheads, no paid staff or offices, and we work from our own homes. We receive no material benefit whatever from our ALS efforts.​ We have no beneficial interest in, and do not own, the IP.
