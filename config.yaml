@@ -17,7 +17,7 @@ params:
       - label: Pricing
         url: /pricing
         style: link
-      - label: lorem-ipsum
+      - label: Faq
         url: '#'
         style: link
         has_icon: false
