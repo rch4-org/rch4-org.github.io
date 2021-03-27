@@ -97,22 +97,27 @@ sections:
         type: faq_item
       - question: What is the dose form and frequency? Can you dose at home?
         answer: |
-          *   **Riluzole:  **
-              **Dose form:** Usually oral tablet
-              **Dose frequency:** Daily
-              **Dose at home:** Yes
+          *   **Riluzole:**    
+
+              **Dose form:** Usually oral tablet  
+              **Dose frequency:** Daily  
+              **Dose at home:** Yes  
               **Clinic visits required:** No
 
-          *   **Radicava:**    
-              **Dose form:** Venous infusion
-              **Dose frequency:** 10 days per month
-              **Dose at home:** No, unless a PICC catheter is arranged
+          <!---->
+
+          *   **Radicava:
+
+              Dose form:** Venous infusion  
+              **Dose frequency:** 10 days per month  
+              **Dose at home:** No, unless a PICC catheter is arranged  
               **Clinic visits required:** Yes, unless the PICC catheter is arranged
 
-          *   **RCH4:**    
-              **Dose form:** Muscle injection, using syringe similar to the one for insulin injection
-              **Dose frequency:** Twice weekly typically
-              **Dose at home:** Yes
+          *   **RCH4:
+
+              Dose form:** Muscle injection, using syringe similar to the one for insulin injection  
+              **Dose frequency:** Twice weekly typically  
+              **Dose at home:** Yes  
               **Clinic visits required:** No
         type: faq_item
       - question: What is the monthly cost?
