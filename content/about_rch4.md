@@ -99,7 +99,6 @@ sections:
         answer: |
           *   **Riluzole:**
 
-
               **Dose form:** Usually oral tablet
 
               **Dose frequency:** Daily
@@ -120,12 +119,13 @@ sections:
 
               **Clinic visits required:** Yes, unless the PICC catheter is arranged
 
-          *   \*\*RCH4:
-              \*\*
+
+          *   **RCH4:**
+
 
               **Dose form:** Muscle injection, using syringe similar to the one for insulin injection\*\*
 
-              Dose frequency:\*\* Twice weekly typically
+              **Dose frequency:** Twice weekly typically
 
               **Dose at home:** Yes
 
