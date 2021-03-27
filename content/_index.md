@@ -8,7 +8,7 @@ sections:
     content: "#### A previously unknown problem protein has been discovered.  \n\n#### A\_specifically\_designed new ALS drug, RCH4,\_successfully suppresses it\n"
     actions:
       - label: Learn More
-        url: /features
+        url: /about_rch4
         style: primary
     title: RCH4 - a new ALS drug
   - section_id: features
