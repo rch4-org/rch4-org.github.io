@@ -40,7 +40,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
+  - section_id: cost
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
