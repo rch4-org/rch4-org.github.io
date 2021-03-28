@@ -41,7 +41,7 @@ sections:
     actions: []
     type: section_content
   - section_id: cost
-    title: lorem-ipsum
+    title: Cost
     content: >-
       ## Lorem ipsum
 
