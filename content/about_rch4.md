@@ -48,7 +48,7 @@ sections:
     actions: []
     type: section_content
   - section_id: availability
-    title: lorem-ipsum
+    title: Availability
     content: >-
       ## Lorem ipsum
 
