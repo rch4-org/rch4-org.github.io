@@ -42,17 +42,7 @@ sections:
     type: section_content
   - section_id: cost
     title: Cost
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "There is no cost.  \n\nWe provide this ALS\_drug **free of charge** as a humanitarian imperative.\_\nYou are not required to contribute anything.\_We pay for it ourselves if we have the funds available.   \nTherefore availability may be\_intermittent.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
