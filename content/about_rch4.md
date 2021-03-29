@@ -18,17 +18,9 @@ sections:
         style: secondary
   - section_id: efficacy
     title: Efficacy
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Efficacy evidence of RCH4 in slowing the progression of ALS, independently
+      reported by PALS themselves, can be seen bellow
     image_alt: lorem-ipsum
     background: gray
     actions: []
