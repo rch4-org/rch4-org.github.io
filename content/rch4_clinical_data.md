@@ -18,25 +18,26 @@ Data is harvested in real time as every patient's monthly monitoring report is s
 The progression of the condition and its status is calculated by the ALS Functional Rating Scale-Revised (ALSFRS-R) which has 12 headings each with a score from 48 to 0, i.e. a maximum of 48 points.
 A normal person would score 48, whereas total paralysis would be 0.
 
-**Years of continuous-patient-treatment with RCH4:**\
-82.4 years
+*   **Years of continuous-patient-treatment with RCH4:**\
+    82.4 years
 
-**​ALSFRS-R points:**\
-Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%\
-Average slowing of the disease decline rate in whole treated population = 63.28%\
-Median slowing of the disease decline rate in the whole treated population = 53.83%
+*   **​ALSFRS-R points:  
+    **
+    Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%  
+    Average slowing of the disease decline rate in whole treated population = 63.28%  
+    Median slowing of the disease decline rate in the whole treated population = 53.83%
 
-Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.
+    Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.*
 
-*Technical comment:The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.  
-Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per month  
-Average monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
+    Technical comment:
 
-*​​*Excluding non-responders 14% (Responders 86%):
-At three years of continuous RCH4 treatment, their median decline rate is slowed by 76.12%At four years of continuous RCH4 treatment, their median decline rate is slowed by 93.50%
-​
-Average treatment length 16.64 monthsMedian treatment length 13.00 months
-Length of treatment range: 4 to 58 months
+    The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per monthAverage monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
+
+*   Excluding non-responders 14% (Responders 86%)  
+
+    At three years of continuous RCH4 treatment, their median decline rate is slowed by 76.12%At four years of continuous RCH4 treatment, their median decline rate is slowed by 93.50%
+    ​Average treatment length 16.64 monthsMedian treatment length 13.00 months
+    Length of treatment range: 4 to 58 months
 
 Highest number of RCH4 doses in one subject 564
 Average number of doses per subject 131
