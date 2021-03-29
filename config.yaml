@@ -14,7 +14,7 @@ params:
       - label: About RCH4
         url: /about_rch4
         style: link
-      - label: lorem-ipsum
+      - label: RCH4 Clinical Data
         url: '#'
         style: link
         has_icon: false
