@@ -30,6 +30,7 @@ sections:
         options:
           - Error on the site
           - Requesting the drug
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
