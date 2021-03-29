@@ -95,5 +95,29 @@ A normal person would score 48, whereas total paralysis would be 0.
 
 ## Confounding issues
 
-The customary confounding issues, e.g., inclusion criteria, study design, placebo effect, cohorts, randomising, etc., are not applicable due to no exclusion criteria – first come first served basis - and far longer treatment than most clinical trials, i.e., continual open ended treatment for as long as charitable funding is available.  
-Factors which affect the progression of the disease and the ALSFRS-R score are known, noted and factored for, e.g., Tracheostomy, NIV, Gastrostomy, Botox, Nuedexta, etc. The latter two do not address the progress of the disease itself - life extension - only alleviate consequential side effects.
+The customary confounding issues, e.g., inclusion criteria, study design, placebo effect, cohorts, randomising, etc., are not applicable due to no exclusion criteria – first come first served basis - and far longer treatment than most clinical trials, i.e., continual open ended treatment for as long as charitable funding is available.Factors which affect the progression of the disease and the ALSFRS-R score are known, noted and factored for, e.g., Tracheostomy, NIV, Gastrostomy, Botox, Nuedexta, etc. The latter two do not address the progress of the disease itself - life extension - only alleviate consequential side effects.
+
+### Data mining
+
+All ALS trials have failed to slow the progression long term. The sponsors of clinical trials inevitably search through their trial data to try find something - anything - that shows a trend towards efficacy, i.e., numerous end points. This can be misleading.
+Examples: Grip strength, lifting, fasciculation or FVC are highlighted if there is any positive indication or trend. Trends in these measurements are of no significance in the overall outlook.
+What truly matters is slowing the overall decline rate of the Functional Rating Scale (ALSFRS-R for which there is no substitute) and thereby increased life expectancy.
+
+For RCH4 there is no data mining and no obfuscation. We offer only one end point: The ALSFRS-R - i.e, the slowing of the disease progression compared to the rate of progression prior to commencement of RCH4 treatment.
+
+### Bias
+
+Due to monthly reporting, bias would rapidly exceed the envelope of credibility. As treatment is open ended, long term and ongoing, that fact further excludes it, as bias in decline rate reporting cannot continue.
+
+A peer reviewed paper confirms that self-evaluation of the ALSFRS-R score concurs almost precisely with the same evaluations done in clinic.
+https://www.tandfonline.com/doi/full/10.3109/17482968.2011.633268
+
+### Controls
+
+​There is a potential confounding aspect to historic controls, which is the determination of the time of onset. Before starting on RCH4, a discussion takes place with the subject to review his or her history and from that information, and information contained in the subjects diagnosis file and the neurologists clinical notes, the time of onset is estimated. Where the information is unreliable, unavailable, or confused, decline rate since diagnosis is used as a baseline. Time since diagnosis averages 1.25 years before starting RCH4. The historic decline prior to RCH4 treatment start is almost exactly the same as the the decline rate in the placebo arms of untreated ALS subjects in the ALS clinical trials PRO-ACT database (again, >10,000 subjects).
+Historic control data is reliable due to being an average of more than one year of decline tracked for each subject before commencing that same subject's treatment.
+
+### Placebos
+
+Placebo effects do not normally last more than days or weeks - not years.
+In any event, PALS taking RCH4 never get a placebo (a dummy drug).
