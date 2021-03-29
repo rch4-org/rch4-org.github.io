@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: RCH4 Clinical data
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
