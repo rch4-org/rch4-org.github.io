@@ -29,7 +29,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Sponsorship
+          - Requesting the drug
       - input_type: textarea
         name: message
         label: Message
