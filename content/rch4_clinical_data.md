@@ -18,16 +18,12 @@ Data is harvested in real time as every patient's monthly monitoring report is s
 The progression of the condition and its status is calculated by the ALS Functional Rating Scale-Revised (ALSFRS-R) which has 12 headings each with a score from 48 to 0, i.e. a maximum of 48 points.
 A normal person would score 48, whereas total paralysis would be 0.
 
-\*\*Years of continuous-patient-treatment with RCH4:\*\*
-
+**Years of continuous-patient-treatment with RCH4:**  
 82.4 years
 
-\*\*​ALSFRS-R points:\*\*
-
-Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%
-
-Average slowing of the disease decline rate in whole treated population = 63.28%
-
+**​ALSFRS-R points:**  
+Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%  
+Average slowing of the disease decline rate in whole treated population = 63.28%  
 Median slowing of the disease decline rate in the whole treated population = 53.83%
 
 Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.
