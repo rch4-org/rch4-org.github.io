@@ -83,7 +83,6 @@ A normal person would score 48, whereas total paralysis would be 0.
 
 *   **Ethnicities** 4
 
-
     Caucasian, African, Arab, Asian
 
 *   **RCH4 database** Datum points 14,608
@@ -93,3 +92,8 @@ A normal person would score 48, whereas total paralysis would be 0.
 *   **Monthly monitoring report compliance** 100%
 
     We insist on reports being submitted on the designated day, or if unavoidable exception, at least within 7 days from the designated reporting day
+
+## Confounding issues
+
+The customary confounding issues, e.g., inclusion criteria, study design, placebo effect, cohorts, randomising, etc., are not applicable due to no exclusion criteria – first come first served basis - and far longer treatment than most clinical trials, i.e., continual open ended treatment for as long as charitable funding is available.  
+Factors which affect the progression of the disease and the ALSFRS-R score are known, noted and factored for, e.g., Tracheostomy, NIV, Gastrostomy, Botox, Nuedexta, etc. The latter two do not address the progress of the disease itself - life extension - only alleviate consequential side effects.
