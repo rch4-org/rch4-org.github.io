@@ -5,10 +5,14 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      ​​We are a humanitarian voluntary charity that has provided the new
+      experimental drug RCH4, always free of charge, for some years worldwide to
+      PALS (Persons with ALS also known as MND).
+
+
+      Having no external source of support and critically short of funding, this
+      contact us page only appears intermittently.
     form_id: contactForm
     form_fields:
       - input_type: text
