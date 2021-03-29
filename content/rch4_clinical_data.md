@@ -29,9 +29,9 @@ A normal person would score 48, whereas total paralysis would be 0.
 
     Median slowing of the disease decline rate in the whole treated population = 53.83%
 
-    Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.*
+    Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*
 
-    Technical comment:  *
+    Technical comment:  \*
 
     *The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per monthAverage monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
 
@@ -63,7 +63,7 @@ A normal person would score 48, whereas total paralysis would be 0.
 
 *   **Disease onset** Limb 74%, Bulbar 15%
 
-*   **Onset unclear **11%
+*   **Onset unclear** 11%
 
 *   Sporadic 91%, Familial: 9%
 
@@ -72,15 +72,17 @@ A normal person would score 48, whereas total paralysis would be 0.
 *   The average score when starting RCH4 is 34 ALSFRS-R points
 
 *   Median ALSFRS-R score at start of RCH4 treatment 37 points
-    ​
+
     *Average starting score in PRO-ACT clinical trials database \[>10,000 ALS subjects] is 40 points, i.e., disease less advanced when starting in those trials. Some 90% of patients are not accepted in ALS trials due to onerous exclusion criteria.Being a humanitarian charity there are no exclusion criteria for RCH4, first come first served, treatment is ongoing as previously stated.Comparison: Edaravone 6-month trial subjects start at 44 points & with onerous exclusion criteria*
 
 *   **RCH4 subjects concomitant ALS drugs** Riluzole 33% Edaravone 5% Both Riluzole and Edaravone 4%
 
-*   **RCH4 subjects taking no other ALS drug**, i.e., do not take Riluzole or Edaravone 67%*
-    Here, the definition of an ALS drug does not include medications to alleviate the consequential effects of the condition, e,g, salivation, pain relief, Botox, Nuedexta, etc., as previously stated*
+*   **RCH4 subjects taking no other ALS drug**, i.e., do not take Riluzole or Edaravone 67%\*
 
-*   Ethnicities: 4 
+    Here, the definition of an ALS drug does not include medications to alleviate the consequential effects of the condition, e,g, salivation, pain relief, Botox, Nuedexta, etc., as previously stated\*
+
+*   **Ethnicities** 4
+
 
     Caucasian, African, Arab, Asian
 
@@ -88,5 +90,6 @@ A normal person would score 48, whereas total paralysis would be 0.
 
 *   **Safety** No RCH4 related SAE reported
 
-*   Monthly monitoring report compliance 100% 
+*   **Monthly monitoring report compliance** 100%
+
     We insist on reports being submitted on the designated day, or if unavoidable exception, at least within 7 days from the designated reporting day
