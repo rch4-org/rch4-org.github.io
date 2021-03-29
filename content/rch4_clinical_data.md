@@ -28,7 +28,7 @@ Median slowing of the disease decline rate in the whole treated population = 53.
 
 Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.
 
-*Technical comment:
+*Technical comment:  
 The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.
 Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per monthAverage monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
 
