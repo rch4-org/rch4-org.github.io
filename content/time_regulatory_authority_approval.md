@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Time required to develop a new drug and get Regulatory Authority approval
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
