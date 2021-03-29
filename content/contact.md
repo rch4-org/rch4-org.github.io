@@ -4,7 +4,7 @@ title: Contact
 sections:
   - section_id: contact
     type: section_contact
-    background: gray
+    background: white
     title: Contact
     content: >
       ​​We are a humanitarian voluntary charity that has provided the new
