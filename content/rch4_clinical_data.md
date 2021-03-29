@@ -23,16 +23,15 @@ A normal person would score 48, whereas total paralysis would be 0.
 
 *   **ALSFRS-R points:**
 
-    Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%  
+    Average slowing of the disease decline rate when non-responders (14%) are excluded = 72.56%
 
-    Average slowing of the disease decline rate in whole treated population = 63.28%  
+    Average slowing of the disease decline rate in whole treated population = 63.28%
 
-    Median slowing of the disease decline rate in the whole treated population = 53.83%  
+    Median slowing of the disease decline rate in the whole treated population = 53.83%
 
     Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.
 
-
-    *Technical comment:  *
+    \*Technical comment:  \*
 
     *The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per monthAverage monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
 
@@ -42,51 +41,29 @@ A normal person would score 48, whereas total paralysis would be 0.
 
     At four years of continuous RCH4 treatment, their median decline rate is slowed by 93.50%
 
-*   ​**Average treatment length**
+*   ​**Average treatment length **16.64 months
 
-    16.64 months
+*   **Median treatment length **13.00 months
 
-*   **Median treatment length**
+*   **Length of treatment range **4 to 58 months
 
-    13.00 months
+*   **Highest number of RCH4 doses in one subject **564
 
-*   **Length of treatment range**
+*   **Average number of doses per subject **131
 
-    4 to 58 months
+*   **Median number of doses per subject **104
 
-*   **Highest number of RCH4 doses in one subject**
+*   **Treated age range **Youngest 31 years, Oldest 83 years
 
-    564
+*   **Average age at start of treatment **53 years. 53% male
 
-*   **Average number of doses per subject**
-
-    131
-
-*   **Median number of doses per subject**
-
-    104
-
-*   **Treated age range**
-
-    Youngest 31 years, Oldest 83 years
-
-*   **Average age at start of treatment**
-
-    53 years. 53% male
-
-*   **Median age at start of treatment**
-
-    55 years
+*   **Median age at start of treatment **55 years
 
 *   ​12% of the subjects have PhD\`s, 4% are medical doctors with independent neurologist\`s diagnosis
 
-*   **Disease onset
+*   **Disease onset **Limb 74%, Bulbar 15%
 
-    **Limb 74%, Bulbar 15%
-
-*   **Onset unclear**
-
-    11%
+*   **Onset unclear **11%
 
 *   Sporadic 91%, Familial: 9%
 
