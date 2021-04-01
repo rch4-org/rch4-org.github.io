@@ -18,9 +18,16 @@ sections:
         style: secondary
   - section_id: efficacy
     title: Efficacy
-    content: >
+    content: >+
       Efficacy evidence of RCH4 in slowing the progression of ALS, independently
-      reported by PALS themselves, can be seen bellow
+      reported by PALS themselves, can be seen bellow.
+
+
+      [A peer reviewed
+      paper](https://www.tandfonline.com/doi/full/10.3109/17482968.2011.633268)
+      confirms that self-evaluation of the ALSFRS-R score concurs almost
+      precisely with the same evaluations done in clinic.
+
     image_alt: lorem-ipsum
     background: gray
     actions: []
