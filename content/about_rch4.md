@@ -34,7 +34,7 @@ sections:
     type: section_content
   - section_id: safety
     title: Safety
-    content: "We cannot afford to do blinded, placebo controlled clinical trials.  \nAccordingly, although there is decades of\_clinical data indicating notable safety and efficacy over decades\_of patient-years. \nYet in the absence of a 6 month\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
+    content: "We cannot afford to do blinded, placebo controlled clinical trials.\n\nAlthough there is decades\_of patient-years clinical data indicating notable safety and efficacy, in the absence of a 6 month\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
