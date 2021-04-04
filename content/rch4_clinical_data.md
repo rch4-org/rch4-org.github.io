@@ -26,15 +26,15 @@ Average slowing of the disease decline rate when non-responders (14%) are exclud
 Average slowing of the disease decline rate in whole treated population = 63.28%\
 Median slowing of the disease decline rate in the whole treated population = 53.83%
 
-Average ALSFRS-R score when starting RCH4 is 34  points\
-Median ALSFRS-R score when starting  RCH4 is 37 points\
-ALSFRS-R score range when starting RCH4 is 12 to 45 points out of a maximum of 48
+Average ALSFRS-R score when starting RCH4 is 34  pointsMedian ALSFRS-R score when starting  RCH4 is 37 pointsALSFRS-R score range when starting RCH4 is 12 to 45 points out of a maximum of 48
+
+Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per month
+
+Average monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month
 
 Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*
 
-\* *Technical comment:The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.    
-Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1.28 points per month    
-Average monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month*
+\* *Technical comment:The RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.*
 
 ***Decline rate e*****xcluding non-responders 14% (Responders 86%)**\
 At three years of continuous RCH4 treatment, their median decline rate is slowed by 76.12%\
