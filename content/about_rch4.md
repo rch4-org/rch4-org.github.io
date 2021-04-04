@@ -18,17 +18,11 @@ sections:
         style: secondary
   - section_id: monthly-report
     title: Monthly Report
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      The monthly monitoring reports also track the drugs and all dietary
+      supplements taken by PALS who are being treated with RCH4. Whether or not
+      you are taking RCH4, we do not recommend taking supplements without you
+      specifically discussing the topic with your doctor.
     image_alt: lorem-ipsum
     background: gray
     actions: []
