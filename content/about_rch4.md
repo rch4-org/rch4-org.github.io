@@ -278,7 +278,7 @@ sections:
         type: faq_item
     type: section_faq
   - section_id: monthly-report
-    title: lorem-ipsum
+    title: Monthly Report
     content: >-
       ## Lorem ipsum
 
