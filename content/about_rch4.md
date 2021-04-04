@@ -19,14 +19,39 @@ sections:
   - section_id: efficacy
     title: Efficacy
     content: >+
+      Patient taking RCH4 are asked to send a report on a monthly basis
+      providing their ALSFRS-R score.  [A peer reviewed
+      paper](https://www.tandfonline.com/doi/full/10.3109/17482968.2011.633268)
+      confirms that self-evaluation of the ALSFRS-R score concurs almost
+      precisely with the same evaluations done in clinic.
+
+
+      Based on this data sent by the PALS we know that:
+
+
+      *   31% of patients exhibit 6 months or more stability
+
+
+      *   52% 4 months or more stability. 
+
+
+      *   14% are non responders, i.e., the drug has no effect for them.
+
+
+      It should be noted that although the ALSFRS-R score is the gold standard
+      for decline measurement, it does not include factors such as
+      get-up-and-go, strength etc. It should also be remembered that the
+      ALSFRS-R score may not reflect loss of motor neurons.  
+
+      However, it is logical and true to observe that, for example, if the
+      ALSFRS-R score does not change, then end of life would be due to something
+      else - or extreme old age.
+
+
       Efficacy evidence of RCH4 in slowing the progression of ALS, independently
       reported by PALS themselves, can be seen bellow.
 
 
-      [A peer reviewed
-      paper](https://www.tandfonline.com/doi/full/10.3109/17482968.2011.633268)
-      confirms that self-evaluation of the ALSFRS-R score concurs almost
-      precisely with the same evaluations done in clinic.
 
     image_alt: lorem-ipsum
     background: gray
