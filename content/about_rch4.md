@@ -19,6 +19,13 @@ sections:
   - section_id: monthly-report
     title: Monthly Report
     content: >
+      Patient taking RCH4 are asked to send a report on a monthly basis
+      providing their ALSFRS-R score.  [A peer reviewed
+      paper](https://www.tandfonline.com/doi/full/10.3109/17482968.2011.633268)
+      confirms that self-evaluation of the ALSFRS-R score concurs almost
+      precisely with the same evaluations done in clinic.
+
+
       The monthly monitoring reports also track the drugs and all dietary
       supplements taken by PALS who are being treated with RCH4. Whether or not
       you are taking RCH4, we do not recommend taking supplements without you
