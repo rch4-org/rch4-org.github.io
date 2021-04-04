@@ -48,32 +48,32 @@ At four years of continuous RCH4 treatment, their median decline rate is slowed
 **Median treatment length**\
 13.00 months
 
-**Length of treatment range  
-**4 to 58 months
+**Length of treatment range**  
+4 to 58 months
 
-**Highest number of RCH4 doses in one subject**  
+**Highest number of RCH4 doses in one subject**\
 564
 
-\*\*Average number of doses per subject\
-\*\*131
+**Average number of doses per subject**  
+131
 
-\*\*Median number of doses per subject\
-\*\*104
+**Median number of doses per subject**  
+104
 
 **Treated age range**\
 Youngest 31 years, Oldest 83 years
 
-\*\*Average age at start of treatment\
-\*\*53 years. 53% male
+**Average age at start of treatment**  
+53 years. 53% male
 
-\*\*Median age at start of treatment  \*\*
+**Median age at start of treatment**  
 55 years
 
-\*\*Disease onset\
-\*\*Limb 74%, Bulbar 15%, Unclear 11%
+**Disease onset**   
+Limb 74%, Bulbar 15%, Unclear 11%
 
-\*\*Sporadic or Familial
-\*\*Sporadic 91%, Familial: 9%
+**Sporadic or Familial**  
+Sporadic 91%, Familial: 9%
 
 \*\*Miscellaneous\
 **​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis**
