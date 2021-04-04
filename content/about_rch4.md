@@ -61,6 +61,9 @@ sections:
 
       Efficacy evidence of RCH4 in slowing the progression of ALS, independently
       reported by PALS themselves, can be seen bellow.
+
+
+      ![](/images/rch4\_chart_single\_3years.png)
     image_alt: lorem-ipsum
     background: gray
     actions: []
