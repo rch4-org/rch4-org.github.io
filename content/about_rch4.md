@@ -16,6 +16,23 @@ sections:
       - label: Get Started
         url: '#'
         style: secondary
+  - section_id: monthly-report
+    title: Monthly Report
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: efficacy
     title: Efficacy
     content: >+
@@ -74,23 +91,6 @@ sections:
   - section_id: availability
     title: Availability
     content: "This is an Investigational New ALS Drug which does not have health Regulatory Authority marketing approval in any country.\_\nThe only legal way to get access to any drug is:\n\n1.  If it has [**Regulatory Authority**](/time_regulatory_authority_approval) marketing approval\n\n2.  If it is in a clinical trial.\\\n    A clinical trial requires Regulatory Authotity permission and a large number of patients. It typically costs (the clinic charges and the drug) Euro 17,000 ($19,000 US) to treat each patient in a trial.\_We cannot\_afford to do clinical trials.\n\n3.  If the Authorities grant\_permission for compassionate use.\\\n    A doctor makes an application for permission\_to treat the patient on compassionate grounds. This is normally only granted in a case where the patient is very ill and not responding to existing drugs or where there is no effective drug\_for the disease in question. There is no Regulatory Authority approved drug to cure\_ALS.\n\n4.  In accordance with\_the \"right to try\" rules.\\\n    Most countries have some mechanism to allow a patient to use\_an experimental new drug. Rules differ and can be\_very complex and time consuming to deal with. We cannot help in advising about the local regulations in the country where you live.\n    It is for a doctor to decide to allow you to take RCH4.\_You would need to discuss this\_with him or her and get written permission. Also, other paperwork is required, e.g. Informed Consent, copies of Neurologists diagnosis etc.\n\nAlso, before we start with a\_new patient, we must be sure that we will have sufficient supply of the drug to reliably provide treatment for the new patient for a long time. Existing PALS must have priority.​ Accordingly we can only accept small numbers of patients.\n\nIf we could, we would supply anyone who would benefit.\n\nThere is also the fact that it can take\_up to 4\_months to have each batch\_manufactured and we must have the funds to pay the Pharmaceutical drug manufacturer\_in advance. Their minimum production run order keeps our existing PALS friends supplied for over one year.​\nThe only way forward to make it permanently available worldwide for everyone, will be the involvement of a Pharmaceutical company or PALS themselves set up their own commercial entity to obtain Regulatory Authority marketing approval for their own medical and financial benefit.\n"
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-  - section_id: monthly-report
-    title: Monthly Report
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
