@@ -8,6 +8,23 @@ sections:
     title: RCH4 - a new ALS drug
     content: "## At a glance\n\n*   For 86% of ALS/MND patients, progression is slowed by 65% therefore\_a ~ threefold increase in life\_expectancy. No other drug can do\_this.\n\n*   Provided\_free of charge by this charity (when funding is available)\_to anyone asking for help, subject to where the patient - the\_\"PALS\" lives (A\_\"PALS\" is a\_\"Person with ALS\" Amyotrophic Lateral Sclerosis, also known as Motor Neurone Disease \"MND\"),\_and in accordance with the medical and Regulatory Authority rules relating to prescription drugs in that country. It does not yet have approval\n\n*   The evidence is from >80 continual patient-treatement-years.\n\n*   There are no related side effects.\n\n*   For 16% of these subjects,\_on average it safely stabilises their condition for\_years.\n\n*   14% of RCH4 patients\_are non-responders, i.e. RCH4 has no effect for them.\n\n*   ​Unfortunately, it is not a cure and no cure exists yet.\n\nAlso, we cannot afford to do blinded, placebo controlled clinical trials.Accordingly, although there is decades of\_clinical data indicating notable safety and efficacy over decades\_of patient-years, in the absence of a 6 months\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
     actions: []
+  - section_id: mode-of-action
+    title: Mode of Action
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: monthly-report
     title: Monthly Report
     content: >
@@ -280,23 +297,6 @@ sections:
         answer: "| Evaluation of efficacy →\_| Major | Moderate | Slight | None | Cannot tell |\n|------------------------ | ----- | --------- | ------ | ----- | ---------- |\n| Riluzole                                  | 3%     | 6%             | 8%       | 15%    | 68%            |\n| Radicava                               |            | 17%            | 18%     | 20%   | 45%            |\n| RCH4                                     | 77%    | 18%            |             |            | 5%               |\n\n\n**2020 update**\n\n| Evaluation of efficacy →\_| Major | Moderate | Slight | None | Cannot tell | Number of Reports |\n|------------------------ | ----- | --------- | ------ | ----- | ---------- | ------------------ |\n| Riluzole                                  | 3%     | 6%             | 8%       | 15%    | 68%            | 1116                            | \n| Radicava                               |  1%      | 22%          | 12%     | 16%    | 49%            | 67                                |\n| RCH4                                     | 90%    | 6%            | 2%        |            | 2%               | 162                             |\n"
         type: faq_item
     type: section_faq
-  - section_id: mode-of-action
-    title: Mode of Action
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
 seo:
   title: Features
   description: This is the features page
