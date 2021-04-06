@@ -19,14 +19,14 @@ sections:
       system. The fact the the drug, a type of molecule somewhat similar to a
       monoclonal antibody and reported to be safe, fixes that defect is now
       certain and undoubted. However, there may other unknown antagonistic
-      agents involved.  
+      agents involved.\
 
       The defect is also certainly a factor in the promotion or stimulation of
       ALS, however it may not be the only defect. There may be others as the
-      aetiology is not clearly understood.  
+      aetiology is not clearly understood.
 
 
-      **TO REWORD  **
+      **TO REWORD**  
 
       In essence, the extensive evidence that this new drug which targets
       dysfunctional lipid rafts is effective in slowing the disease progression
