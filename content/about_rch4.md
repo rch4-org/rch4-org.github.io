@@ -8,14 +8,6 @@ sections:
     title: RCH4 - a new ALS drug
     content: "## At a glance\n\n*   For 86% of ALS/MND patients, progression is slowed by 65% therefore\_a ~ threefold increase in life\_expectancy. No other drug can do\_this.\n\n*   Provided\_free of charge by this charity (when funding is available)\_to anyone asking for help, subject to where the patient - the\_\"PALS\" lives (A\_\"PALS\" is a\_\"Person with ALS\" Amyotrophic Lateral Sclerosis, also known as Motor Neurone Disease \"MND\"),\_and in accordance with the medical and Regulatory Authority rules relating to prescription drugs in that country. It does not yet have approval\n\n*   The evidence is from >80 continual patient-treatement-years.\n\n*   There are no related side effects.\n\n*   For 16% of these subjects,\_on average it safely stabilises their condition for\_years.\n\n*   14% of RCH4 patients\_are non-responders, i.e. RCH4 has no effect for them.\n\n*   ​Unfortunately, it is not a cure and no cure exists yet.\n\nAlso, we cannot afford to do blinded, placebo controlled clinical trials.Accordingly, although there is decades of\_clinical data indicating notable safety and efficacy over decades\_of patient-years, in the absence of a 6 months\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
     actions: []
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
-        style: secondary
   - section_id: monthly-report
     title: Monthly Report
     content: >
