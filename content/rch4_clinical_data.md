@@ -48,51 +48,51 @@ At four years of continuous RCH4 treatment, their median decline rate is slowed
 **Median treatment length**\
 13.00 months
 
-**Length of treatment range**  
+**Length of treatment range**\
 4 to 58 months
 
 **Highest number of RCH4 doses in one subject**\
 564
 
-**Average number of doses per subject**  
+**Average number of doses per subject**\
 131
 
-**Median number of doses per subject**  
+**Median number of doses per subject**\
 104
 
 **Treated age range**\
 Youngest 31 years, Oldest 83 years
 
-**Average age at start of treatment**  
+**Average age at start of treatment**\
 53 years. 53% male
 
-**Median age at start of treatment**  
+**Median age at start of treatment**\
 55 years
 
-**Disease onset**   
+**Disease onset**\
 Limb 74%, Bulbar 15%, Unclear 11%
 
-**Sporadic or Familial**  
+**Sporadic or Familial**\
 Sporadic 91%, Familial: 9%
 
 \*\*Miscellaneous\
 **​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis**
 
-\*\*\*\*RCH4 subjects concomitant ALS drugs\
-\*\*Riluzole 33% Edaravone 5% Both Riluzole and Edaravone 4%
+**RCH4 subjects concomitant ALS drugs**  
+Riluzole 33% Edaravone 5% Both Riluzole and Edaravone 4%
 
-\*\*RCH4 subjects taking no other ALS drug\
-\**i.e., do not take Riluzole or Edaravone 67%\*  \*
+**RCH4 subjects taking no other ALS drug**  
+*i.e., do not take Riluzole or Edaravone 67%  
 Here, the definition of an ALS drug does not include medications to alleviate the consequential effects of the condition, e,g, salivation, pain relief, Botox, Nuedexta, etc., as previously stated*\*
 
-\*\*Ethnicities\
-\*\*4 - Caucasian, African, Arab, Asian
+**Ethnicities**  
+4 - Caucasian, African, Arab, Asian
 
-\*\*Safety\
-\*\*No RCH4 related SAE reported
+**Safety**  
+No RCH4 related SAE reported
 
-\*\*Monthly monitoring report compliance\
-\*\*100%\
+**Monthly monitoring report compliance**  
+100%  
 *We insist on reports being submitted on the designated day, or if unavoidable exception, at least within 7 days from the designated reporting day*
 
 Average starting score in PRO-ACT clinical trials database \[>10,000 ALS subjects] is 40 points, i.e., disease less advanced when starting in those trials. Some 90% of patients are not accepted in ALS trials due to onerous exclusion criteria.Being a humanitarian charity there are no exclusion criteria for RCH4, first come first served, treatment is ongoing as previously stated.Comparison: Edaravone 6-month trial subjects start at 44 points & with onerous exclusion criteria
