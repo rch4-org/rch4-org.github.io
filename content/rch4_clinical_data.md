@@ -34,7 +34,7 @@ Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1
 
 Average monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month
 
-Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*  
+Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*
 
 Average starting score in PRO-ACT clinical trials database \[>10,000 ALS subjects] is 40 points, i.e., disease less advanced when starting in those trials. Some 90% of patients are not accepted in ALS trials due to onerous exclusion criteria.Being a humanitarian charity there are no exclusion criteria for RCH4, first come first served, treatment is ongoing as previously stated.Comparison: Edaravone 6-month trial subjects start at 44 points & with onerous exclusion criteria
 
@@ -77,8 +77,8 @@ Limb 74%, Bulbar 15%, Unclear 11%
 **Sporadic or Familial**\
 Sporadic 91%, Familial: 9%
 
-**Miscellaneous**  **
-**​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis
+**Miscellaneous**  
+​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis
 
 **RCH4 subjects concomitant ALS drugs**\
 Riluzole 33% Edaravone 5% Both Riluzole and Edaravone 4%
