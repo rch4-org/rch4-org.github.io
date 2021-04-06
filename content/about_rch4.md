@@ -10,17 +10,41 @@ sections:
     actions: []
   - section_id: mode-of-action
     title: Mode of Action
-    content: >-
-      ## Lorem ipsum
+    content: >
+      *Note: These paragraphs are not intended to be a scientific discussion but
+      a conceptualised broad overview for the average reader.*
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      This new ALS drug targets a newly found agent ("defect") in the immune
+      system. The fact the the drug, a type of molecule somewhat similar to a
+      monoclonal antibody and reported to be safe, fixes that defect is now
+      certain and undoubted. However, there may other unknown antagonistic
+      agents involved.  
+
+      The defect is also certainly a factor in the promotion or stimulation of
+      ALS, however it may not be the only defect. There may be others as the
+      aetiology is not clearly understood.  
 
 
-      - Lorem ipsum
+      **TO REWORD  **
 
-      - dolor sit amet
+      In essence, the extensive evidence that this new drug which targets
+      dysfunctional lipid rafts is effective in slowing the disease progression
+      across the entire severity spectrum of ALS including both sporadic and
+      familial cases, proving that it targets the primary initiating mechanism
+      of the disease process.
+
+
+      ## The target
+
+
+      A specific B-cell sub set was identified as the source of the newly
+      recognised agent (operationally termed MRCH) which, in turn, upregulates
+      the expression of a protein, which in excess, is excitotoxic. The B-cell
+      sub set lipid raft receptors were characterised and a molecule developed
+      which recognises that receptor and nothing else - therefore indicating a
+      notably safe Mode Of Action (MOA) profile. This has been confirmed after
+      very many decades of continual-patient-years treatment.
     image_alt: lorem-ipsum
     background: gray
     actions: []
