@@ -112,7 +112,7 @@ params:
       - label: Privacy Policy
         url: /privacy-policy
         style: link
-    content: '&copy; RC CHarity. All rights reserved'
+    content: '&copy; RC Charity. All rights reserved'
   domain: 'https://caring-bee-a536f.netlify.app'
 taxonomies:
   stub: stub
