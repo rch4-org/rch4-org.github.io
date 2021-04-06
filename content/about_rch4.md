@@ -22,7 +22,7 @@ sections:
 
       - dolor sit amet
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions: []
     type: section_content
   - section_id: monthly-report
