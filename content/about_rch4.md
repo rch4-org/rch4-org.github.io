@@ -70,7 +70,7 @@ sections:
     type: section_content
   - section_id: safety
     title: Safety
-    content: "We cannot afford to do blinded, placebo controlled clinical trials.\n\nAlthough there is decades\_of patient-years clinical data indicating notable safety and efficacy, in the absence of a 6 month\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
+    content: "Although RCH4 has an outstanding safety record and no notable related side effects\_have ever been reported to date\_after decades of continual patient-treatment-years, there is always the\_potential for side effects\_with any drug. You would take RCH4\_entirely at your own risk.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
