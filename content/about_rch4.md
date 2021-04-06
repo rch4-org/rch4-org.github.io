@@ -280,7 +280,7 @@ sections:
         answer: "| Evaluation of efficacy →\_| Major | Moderate | Slight | None | Cannot tell |\n|------------------------ | ----- | --------- | ------ | ----- | ---------- |\n| Riluzole                                  | 3%     | 6%             | 8%       | 15%    | 68%            |\n| Radicava                               |            | 17%            | 18%     | 20%   | 45%            |\n| RCH4                                     | 77%    | 18%            |             |            | 5%               |\n\n\n**2020 update**\n\n| Evaluation of efficacy →\_| Major | Moderate | Slight | None | Cannot tell | Number of Reports |\n|------------------------ | ----- | --------- | ------ | ----- | ---------- | ------------------ |\n| Riluzole                                  | 3%     | 6%             | 8%       | 15%    | 68%            | 1116                            | \n| Radicava                               |  1%      | 22%          | 12%     | 16%    | 49%            | 67                                |\n| RCH4                                     | 90%    | 6%            | 2%        |            | 2%               | 162                             |\n"
         type: faq_item
     type: section_faq
-  - section_id: lorem-ipsum
+  - section_id: mode-of-action
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
