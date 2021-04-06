@@ -34,7 +34,9 @@ Average historic functional decline over 14.17 months BEFORE starting RCH4 = -1
 
 Average monthly decline over 16.44 months AFTER START of RCH4 treatment = -0.47 points per month
 
-Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*
+Since 2007, there have been more than 80 trials in ALS. None have demonstrated such, if any, measurable efficacy, short or long term, and further, all trials had carefully selected patients.\*  
+
+Average starting score in PRO-ACT clinical trials database \[>10,000 ALS subjects] is 40 points, i.e., disease less advanced when starting in those trials. Some 90% of patients are not accepted in ALS trials due to onerous exclusion criteria.Being a humanitarian charity there are no exclusion criteria for RCH4, first come first served, treatment is ongoing as previously stated.Comparison: Edaravone 6-month trial subjects start at 44 points & with onerous exclusion criteria
 
 \* *Technical comment: the RCH4 analysis would equate to ITT as there is no exclusion or selection criteria, first come first served. Everyone asking for help is accepted only subject to paperwork. e.g., formal written diagnosis, case file, informed consent, doctors permission etc., and funds being available to treat the person for some years.*
 
@@ -75,27 +77,25 @@ Limb 74%, Bulbar 15%, Unclear 11%
 **Sporadic or Familial**\
 Sporadic 91%, Familial: 9%
 
-\*\*Miscellaneous\
-**​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis**
+**Miscellaneous**  **
+**​12% of the subjects have PhD's, 4% are medical doctors with independent neurologist's diagnosis
 
-**RCH4 subjects concomitant ALS drugs**  
+**RCH4 subjects concomitant ALS drugs**\
 Riluzole 33% Edaravone 5% Both Riluzole and Edaravone 4%
 
-**RCH4 subjects taking no other ALS drug**  
-*i.e., do not take Riluzole or Edaravone 67%  
-Here, the definition of an ALS drug does not include medications to alleviate the consequential effects of the condition, e,g, salivation, pain relief, Botox, Nuedexta, etc., as previously stated*\*
+**RCH4 subjects taking no other ALS drug**\
+*i.e., do not take Riluzole or Edaravone 67%*\
+*Here, the definition of an ALS drug does not include medications to alleviate the consequential effects of the condition, e,g, salivation, pain relief, Botox, Nuedexta, etc., as previously stated*\*
 
-**Ethnicities**  
+**Ethnicities**\
 4 - Caucasian, African, Arab, Asian
 
-**Safety**  
+**Safety**\
 No RCH4 related SAE reported
 
-**Monthly monitoring report compliance**  
-100%  
+**Monthly monitoring report compliance**\
+100%\
 *We insist on reports being submitted on the designated day, or if unavoidable exception, at least within 7 days from the designated reporting day*
-
-Average starting score in PRO-ACT clinical trials database \[>10,000 ALS subjects] is 40 points, i.e., disease less advanced when starting in those trials. Some 90% of patients are not accepted in ALS trials due to onerous exclusion criteria.Being a humanitarian charity there are no exclusion criteria for RCH4, first come first served, treatment is ongoing as previously stated.Comparison: Edaravone 6-month trial subjects start at 44 points & with onerous exclusion criteria
 
 ## Confounding issues
 
