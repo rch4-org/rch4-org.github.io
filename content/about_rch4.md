@@ -281,7 +281,7 @@ sections:
         type: faq_item
     type: section_faq
   - section_id: mode-of-action
-    title: lorem-ipsum
+    title: Mode of Action
     content: >-
       ## Lorem ipsum
 
