@@ -20,17 +20,14 @@ sections:
 
 
       If applying for help on behalf of someone else, please state their first,
-      given, name along with your own name.  
+      given, name along with your own name.\
 
       Your information is confidential and will never be shared with any other
       party.
 
 
       We will consider if we may be able to offer you help at this time and we
-      will respond to you.  
-
-      Please do not send any documents with your email. We may ask for these
-      later.
+      will respond to you.
     form_id: contactForm
     form_fields:
       - input_type: text
