@@ -30,7 +30,6 @@ sections:
         actions: []
         type: feature_item
     type: section_features
-    title: Controversy
 seo:
   title: ''
   description: ''
