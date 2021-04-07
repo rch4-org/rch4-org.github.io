@@ -60,7 +60,7 @@ sections:
         label: Do you have a written diagnosis of ALS or MND?
         default_value: 'yes'
         options:
-          - 'no'
+          - 'yes'
           - lorem-ipsum
         is_required: false
         type: form_field
