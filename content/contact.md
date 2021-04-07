@@ -81,7 +81,6 @@ sections:
       - input_type: select
         name: neurologist
         label: Is your doctor a recognised Neurologist?
-        default_value: 'yes'
         options:
           - 'yes'
           - 'no'
