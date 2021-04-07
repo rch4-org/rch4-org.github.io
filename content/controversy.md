@@ -29,7 +29,7 @@ sections:
         actions:
           - label: Read More
             url: /controversy/alsuntangled-review
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: left
