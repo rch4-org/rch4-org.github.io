@@ -27,7 +27,7 @@ sections:
           completely untrue statements contained in this so-called review.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: '#'
             style: link
             has_icon: false
