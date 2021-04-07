@@ -14,6 +14,16 @@ sections:
 
       Having no external source of support and critically short of funding, this
       contact us page only appears intermittently.
+
+
+      If you wish to contact us, kindly study the following
+
+
+      If applying for help on behalf of someone else, please state their first,
+      given, name along with your own name.  
+
+      Your information is confidential and will never be shared with any other
+      party.
     form_id: contactForm
     form_fields:
       - input_type: text
