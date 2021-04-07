@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Go back to controversy
         url: /controversy
-        style: link
+        style: primary
         has_icon: true
         icon: arrow-left
         icon_position: left
