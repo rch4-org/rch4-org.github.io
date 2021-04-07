@@ -4,8 +4,7 @@ sections:
   - section_id: controversy
     background: gray
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
