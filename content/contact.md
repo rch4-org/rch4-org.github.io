@@ -131,7 +131,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: textarea
-        name: lorem-ipsum
+        name: children
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
