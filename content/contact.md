@@ -114,7 +114,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: text
+      - input_type: select
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
