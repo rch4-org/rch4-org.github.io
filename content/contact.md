@@ -35,6 +35,8 @@ sections:
       - input_type: textarea
         name: message
         label: Message
+        options:
+          - lorem-ipsum
       - input_type: checkbox
         name: consent
         label: >-
