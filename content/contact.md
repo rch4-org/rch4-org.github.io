@@ -43,8 +43,9 @@ sections:
           3/ How many months since you think or believe that your ALS symptoms started?  
 
           4/ Is your doctor a recognised Neurologist?  
-          
+
           5/ Have you been told what your ALSFRS-R score is, and if so, what is it and when?  
+          
           6/ Do you take Edaravone (Radicava)?  
           7/ What other serious health condition/s do you have?  
           8/ Are you allergic to
