@@ -37,6 +37,28 @@ sections:
             no_follow: false
             type: action
         type: feature_item
+      - title: ALS Untangled RCH4 review
+        content: >
+          ALS Untangled (ALSU) did not offer any right of reply, nor contacted
+          us when compiling [this
+          paper.](https://www.tandfonline.com/doi/full/10.1080/21678421.2019.1675282)
+
+
+          For those who may be interested, the RCH4 Charity here provides a
+          detailed response to each of the many misleading, disingenuous and
+          completely untrue statements contained in this so-called review.
+        image_alt: lorem-ipsum
+        actions:
+          - label: Read More
+            url: /controversy/alsuntangled-review
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+        type: feature_item
     type: section_features
 seo:
   title: ''
