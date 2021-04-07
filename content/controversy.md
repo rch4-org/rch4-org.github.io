@@ -15,7 +15,7 @@ sections:
         actions: []
         type: feature_item
         title: Controversy
-      - title: lorem-ipsum
+      - title: 'ALS Untangled '
         content: >-
           ## Lorem ipsum
 
