@@ -35,29 +35,6 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: >-
-          1/ Have you got a written diagnosis of ALS or MND?  
-
-          2/ How many months since that diagnosis?  
-
-          3/ How many months since you think or believe that your ALS symptoms started?  
-
-          4/ Is your doctor a recognised Neurologist?  
-
-          5/ Have you been told what your ALSFRS-R score is, and if so, what is it and when?  
-
-          6/ Do you take Edaravone (Radicava)?  
-
-          7/ What other serious health condition/s do you have?  
-
-          8/ Are you allergic to anything, e.g., drugs, foods, nuts, pollen, etc.? 9/ Your age in
-          years? 10/ What is, or was, your occupation or profession? 11/ Do you
-          have a recent full blood test available? 12/ Do you live with a care
-          giver (spouse, family, etc)? 13/ Do you have children under the age of
-          18 years? If so, what are their ages. 14/ Does any relative of yours
-          have or had ALS? If so, state relationship (sibling, cousin etc.)  15/
-          What country do you live in?  16/ Initially, you are welcome to add
-          brief/short comments about your history or situation.
       - input_type: checkbox
         name: consent
         label: >-
