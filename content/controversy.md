@@ -37,7 +37,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-      - title: ALS Untangled RCH4 review
+      - title: MNS Association
         content: >
           ALS Untangled (ALSU) did not offer any right of reply, nor contacted
           us when compiling [this
