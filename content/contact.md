@@ -140,7 +140,9 @@ sections:
         type: form_field
       - input_type: textarea
         name: familial
-        label: lorem-ipsum
+        label: >-
+          Does any relative of yours have or had ALS? If so, state relationship
+          (sibling, cousin etc.) 
         default_value: lorem-ipsum
         options: []
         is_required: false
