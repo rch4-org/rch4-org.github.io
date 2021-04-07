@@ -110,10 +110,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: textarea
-        name: message
-        label: Message
-        options: []
       - input_type: select
         name: blood-test
         label: Do you have a recent full blood test available?
@@ -152,6 +148,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        options: []
     submit_label: Send Message
     hide_labels: false
     form_action: 'https://formspree.io/f/myylgvzr'
