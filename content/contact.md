@@ -47,6 +47,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - 'yes'
+          - lorem-ipsum
         is_required: false
         type: form_field
         name: diagnosis
