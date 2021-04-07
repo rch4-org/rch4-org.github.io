@@ -86,7 +86,8 @@ sections:
         name: radicava
         label: Do you take Edaravone (Radicava)?
         default_value: 'no'
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: text
