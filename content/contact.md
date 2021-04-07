@@ -125,7 +125,7 @@ sections:
       - input_type: select
         name: care-giver
         label: 'Do you live with a care giver (spouse, family, etc)?'
-        default_value: lorem-ipsum
+        default_value: ye
         options: []
         is_required: false
         type: form_field
