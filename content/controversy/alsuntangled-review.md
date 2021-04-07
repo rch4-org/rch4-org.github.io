@@ -1,6 +1,11 @@
 ---
 title: alsuntangled-review
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: go-back
     image_alt: lorem-ipsum
     background: gray
@@ -25,11 +30,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: ''
   description: ''
