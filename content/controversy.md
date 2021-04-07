@@ -16,17 +16,15 @@ sections:
         type: feature_item
         title: Controversy
       - title: ALS Untangled RCH4 review
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ALS Untangled (ALSU) did not offer any right of reply, nor contacted
+          us when compiling [this
+          paper.](https://www.tandfonline.com/doi/full/10.1080/21678421.2019.1675282)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          For those who may be interested, the RCH4 Charity here provides a
+          detailed response to each of the many misleading, disingenuous and
+          completely untrue statements contained in this so-called review.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
