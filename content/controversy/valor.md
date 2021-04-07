@@ -2,7 +2,7 @@
 title: eric-valor
 sections:
   - section_id: lorem-ipsum
-    title: ERic Valor
+    title: Eric Valor
     content: >+
       ALS Untangled (ALSU) did not offer any right of reply, nor contacted us
       when compiling [this
