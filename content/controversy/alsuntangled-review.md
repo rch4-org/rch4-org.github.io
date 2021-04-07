@@ -17,7 +17,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: Go back to controversy
         url: '#'
         style: link
         has_icon: true
