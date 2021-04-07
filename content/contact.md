@@ -59,7 +59,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: number
-        name: lorem-ipsum
+        name: onset-months
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
