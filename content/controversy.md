@@ -15,7 +15,7 @@ sections:
         actions: []
         type: feature_item
         title: Controversy
-      - title: 'ALS Untangled '
+      - title: ALS Untangled RCH4 review
         content: >-
           ## Lorem ipsum
 
