@@ -127,6 +127,7 @@ sections:
         label: 'Do you live with a care giver (spouse, family, etc)?'
         options:
           - 'yes'
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
