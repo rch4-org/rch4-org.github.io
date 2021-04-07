@@ -55,7 +55,7 @@ sections:
         name: diagnosis
       - input_type: text
         name: diagnosis-months
-        label: lorem-ipsum
+        label: How many months since that diagnosis?
         default_value: lorem-ipsum
         options: []
         is_required: false
