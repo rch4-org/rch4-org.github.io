@@ -2,7 +2,6 @@
 title: Controversy
 sections:
   - section_id: controversy
-    subtitle: lorem-ipsum
     background: gray
     features:
       - title: lorem-ipsum
