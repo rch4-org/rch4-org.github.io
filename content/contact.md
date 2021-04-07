@@ -98,7 +98,7 @@ sections:
         name: radicava
         label: Do you take Edaravone (Radicava)?
         options:
-          - 'no'
+          - 'yes'
         is_required: true
         type: form_field
       - input_type: textarea
