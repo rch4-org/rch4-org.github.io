@@ -142,7 +142,7 @@ sections:
         name: familial
         label: >-
           Does any relative of yours have or had ALS? If so, state relationship
-          (sibling, cousin etc.) 
+          (sibling, cousin etc.)
         default_value: lorem-ipsum
         options: []
         is_required: false
