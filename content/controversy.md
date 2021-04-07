@@ -28,7 +28,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Read More
-            url: '#'
+            url: /controversy/alsuntangled-review
             style: link
             has_icon: false
             icon: arrow-left
