@@ -93,7 +93,6 @@ sections:
       - input_type: textarea
         name: health
         label: What other serious health condition/s do you have?
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
