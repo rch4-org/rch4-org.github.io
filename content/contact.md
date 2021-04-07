@@ -76,7 +76,9 @@ sections:
         is_required: true
       - input_type: text
         name: ALSFRS-R-score
-        label: lorem-ipsum
+        label: >-
+          Have you been told what your ALSFRS-R score is, and if so, what is it
+          and when?
         default_value: lorem-ipsum
         options: []
         is_required: false
