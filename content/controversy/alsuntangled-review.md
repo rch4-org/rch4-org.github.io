@@ -3,8 +3,6 @@ title: alsuntangled-review
 sections:
   - section_id: go-back
     title: lorem-ipsum
-    content: |
-      *
     image_alt: lorem-ipsum
     background: gray
     actions:
