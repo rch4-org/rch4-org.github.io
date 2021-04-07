@@ -149,7 +149,6 @@ sections:
       - input_type: text
         name: country
         label: What country do you live in?
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
