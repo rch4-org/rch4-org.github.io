@@ -69,7 +69,7 @@ sections:
       - input_type: select
         name: neurologist
         label: Is your doctor a recognised Neurologist?
-        default_value: lorem-ipsum
+        default_value: 'yes'
         options: []
         is_required: false
         type: form_field
