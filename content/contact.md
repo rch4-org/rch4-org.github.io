@@ -126,12 +126,6 @@ sections:
           - 'no'
         is_required: false
         type: form_field
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
       - input_type: textarea
         name: children
         label: >-
@@ -152,6 +146,12 @@ sections:
         name: message
         label: Message
         options: []
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
     submit_label: Send Message
     hide_labels: false
     form_action: 'https://formspree.io/f/myylgvzr'
