@@ -40,10 +40,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: textarea
-        name: message
-        label: Message
-        options: []
       - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
         default_value: 'yes'
@@ -108,6 +104,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        options: []
     submit_label: Send Message
     hide_labels: false
     form_action: 'https://formspree.io/f/myylgvzr'
