@@ -6,7 +6,7 @@ sections:
     background: gray
     actions:
       - label: Go back to controversy
-        url: '#'
+        url: /controversy
         style: link
         has_icon: true
         icon: arrow-left
