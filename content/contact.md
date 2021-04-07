@@ -100,7 +100,6 @@ sections:
       - input_type: textarea
         name: alergies
         label: 'Are you allergic to anything, e.g., drugs, foods, nuts, pollen, etc.?'
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
