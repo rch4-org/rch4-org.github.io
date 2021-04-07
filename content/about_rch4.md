@@ -66,14 +66,13 @@ sections:
       of points allocated to 12 questions. As every monthly report form is
       submitted, the information is automatically picked up by a database and
       the statistics updated in real time. All interventions known to aﬀect the
-      course of disease (e.g., NIV, Trach., gastrostomy, etc.) are tracked.\
+      course of disease (e.g., NIV, Trach., gastrostomy, etc.) are tracked. The
+      monthly monitoring reports also track the drugs and all dietary
+      supplements taken by PALS who are being treated with RCH4.
+
 
       We therefore maintain a very accurate analysis of each PALS, enabling
       pro-active ongoing management of their RCH4 treatment if possible.
-
-
-      The monthly monitoring reports also track the drugs and all dietary
-      supplements taken by PALS who are being treated with RCH4.
     image_alt: lorem-ipsum
     background: gray
     actions: []
