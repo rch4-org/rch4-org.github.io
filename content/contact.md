@@ -71,7 +71,7 @@ sections:
         label: Is your doctor a recognised Neurologist?
         default_value: 'yes'
         options:
-          - lorem-ipsum
+          - 'no'
         is_required: false
         type: form_field
     submit_label: Send Message
