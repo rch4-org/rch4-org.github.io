@@ -117,7 +117,6 @@ sections:
       - input_type: select
         name: blood-test
         label: Do you have a recent full blood test available?
-        default_value: 'yes'
         options:
           - 'no'
         is_required: true
