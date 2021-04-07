@@ -67,7 +67,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: select
-        name: lorem-ipsum
+        name: neurologist
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
