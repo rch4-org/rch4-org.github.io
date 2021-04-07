@@ -63,7 +63,6 @@ sections:
         label: >-
           How many months since you think or believe that your ALS symptoms
           started?
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
