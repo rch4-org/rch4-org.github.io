@@ -2,7 +2,7 @@
 title: alsuntangled-review
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: ALS Untangled Review
     content: >-
       ## Lorem ipsum
 
