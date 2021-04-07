@@ -46,6 +46,12 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: country
+        label: What country do you live in?
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
         default_value: 'yes'
@@ -143,12 +149,6 @@ sections:
         label: >-
           Does any relative of yours have or had ALS? If so, state relationship
           (sibling, cousin etc.)
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: country
-        label: What country do you live in?
         options: []
         is_required: false
         type: form_field
