@@ -54,7 +54,7 @@ sections:
         type: form_field
         name: diagnosis
       - input_type: text
-        name: lorem-ipsum
+        name: diagnosis-months
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
