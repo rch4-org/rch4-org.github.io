@@ -34,6 +34,12 @@ sections:
         name: email
         label: Email
         is_required: true
+      - input_type: number
+        name: age
+        label: What is your age in years?
+        options: []
+        is_required: false
+        type: form_field
       - input_type: textarea
         name: message
         label: Message
@@ -99,12 +105,6 @@ sections:
       - input_type: textarea
         name: alergies
         label: 'Are you allergic to anything, e.g., drugs, foods, nuts, pollen, etc.?'
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: number
-        name: age
-        label: What is your age in years?
         options: []
         is_required: false
         type: form_field
