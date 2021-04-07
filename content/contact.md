@@ -132,7 +132,9 @@ sections:
         is_required: true
       - input_type: textarea
         name: children
-        label: lorem-ipsum
+        label: >-
+          Do you have children under the age of 18 years? If so, what are their
+          ages
         default_value: lorem-ipsum
         options: []
         is_required: false
