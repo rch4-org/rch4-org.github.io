@@ -83,7 +83,7 @@ sections:
         label: Is your doctor a recognised Neurologist?
         default_value: 'yes'
         options:
-          - 'no'
+          - 'yes'
         is_required: true
         type: form_field
       - input_type: text
