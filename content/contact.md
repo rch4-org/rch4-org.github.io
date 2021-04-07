@@ -37,6 +37,7 @@ sections:
         label: Message
         default_value: >-
           1/ Have you got a written diagnosis of ALS or MND?  
+          
           2/ How many months since that diagnosis?  
           3/ How many months since you think or believe that your ALS symptoms started?  
           4/ Is your doctor a recognised Neurologist?  
