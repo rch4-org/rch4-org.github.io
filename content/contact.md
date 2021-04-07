@@ -128,6 +128,7 @@ sections:
         options:
           - 'yes'
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
