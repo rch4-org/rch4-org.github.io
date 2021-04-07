@@ -119,6 +119,7 @@ sections:
         label: Do you have a recent full blood test available?
         options:
           - 'yes'
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: select
