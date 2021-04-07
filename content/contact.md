@@ -126,7 +126,8 @@ sections:
         name: care-giver
         label: 'Do you live with a care giver (spouse, family, etc)?'
         default_value: 'yes'
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Send Message
