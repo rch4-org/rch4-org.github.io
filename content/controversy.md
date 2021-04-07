@@ -45,7 +45,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Read More
-            url: /controversy/alsuntangled-review
+            url: /controversy/mnd-association
             style: primary
             has_icon: false
             icon: arrow-left
