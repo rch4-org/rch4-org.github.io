@@ -1,7 +1,7 @@
 ---
 title: alsuntangled-review
 sections:
-  - section_id: lorem-ipsum
+  - section_id: go-back-controversy
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
