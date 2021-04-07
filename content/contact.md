@@ -42,7 +42,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: text
+      - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
         default_value: lorem-ipsum
         options:
