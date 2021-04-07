@@ -84,7 +84,7 @@ sections:
         type: form_field
       - input_type: select
         name: radicava
-        label: lorem-ipsum
+        label: Do you take Edaravone (Radicava)?
         default_value: lorem-ipsum
         options: []
         is_required: false
