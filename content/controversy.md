@@ -10,7 +10,7 @@ sections:
 
 
           This page is here to list such articles and have a right to reply as
-          we never got such offer by the authors.
+          we never got such offer from the authors.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
