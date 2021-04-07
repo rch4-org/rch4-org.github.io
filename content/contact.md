@@ -84,6 +84,7 @@ sections:
         default_value: 'yes'
         options:
           - 'yes'
+          - lorem-ipsum
         is_required: true
         type: form_field
       - input_type: text
