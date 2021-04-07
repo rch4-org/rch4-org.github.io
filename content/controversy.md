@@ -26,7 +26,16 @@ sections:
           detailed response to each of the many misleading, disingenuous and
           completely untrue statements contained in this so-called review.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
     type: section_features
 seo:
