@@ -115,7 +115,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: select
-        name: lorem-ipsum
+        name: blood-test
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
