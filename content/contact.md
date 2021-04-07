@@ -40,6 +40,12 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: occupation
+        label: 'What is, or was, your occupation or profession?'
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
         default_value: 'yes'
@@ -108,12 +114,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: text
-        name: occupation
-        label: 'What is, or was, your occupation or profession?'
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Send Message
     hide_labels: false
     form_action: 'https://formspree.io/f/myylgvzr'
