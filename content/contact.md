@@ -38,12 +38,6 @@ sections:
         name: message
         label: Message
         options: []
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
       - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
         default_value: 'yes'
@@ -74,6 +68,12 @@ sections:
           - 'no'
         is_required: true
         type: form_field
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
     submit_label: Send Message
     hide_labels: false
     form_action: 'https://formspree.io/f/myylgvzr'
