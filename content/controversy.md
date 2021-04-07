@@ -39,14 +39,9 @@ sections:
         type: feature_item
       - title: MND Association
         content: >
-          ALS Untangled (ALSU) did not offer any right of reply, nor contacted
-          us when compiling [this
-          paper.](https://www.tandfonline.com/doi/full/10.1080/21678421.2019.1675282)
-
-
-          For those who may be interested, the RCH4 Charity here provides a
-          detailed response to each of the many misleading, disingenuous and
-          completely untrue statements contained in this so-called review.
+          The **Motor Neurone Disease Association** and the **ALS Association**
+          were both offered RCH4 as a humanitarian gift and have responded by
+          trying to suppress it.
         image_alt: lorem-ipsum
         actions:
           - label: Read More
