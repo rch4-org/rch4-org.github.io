@@ -111,7 +111,6 @@ sections:
       - input_type: text
         name: occupation
         label: 'What is, or was, your occupation or profession?'
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
