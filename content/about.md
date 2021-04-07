@@ -41,7 +41,7 @@ There was no effective drug for the condition. The only drug approved for it "R
 
 In 2012, the package was offered as a gift to the ALS Research entities. Scientific presentations were, again made in person, to the ALS research community. At various times, outstanding clinical data was brought to the attention of other major research players including the ALS Association Chief Scientist Dr. Lucy Brujyn and the MND Association Head of Research Dr. Belinda Cupid. We were ignored.​ 
 
-**In general:** Many of the world's pre-eminent neurologists were contacted and [RCH4 was met either with hostility or they failed to reply.​ We tried to get assistance from Globally known Philanthropists, and the ALS funding sources. Repeatedly they declined to help us. ​No more could be done.
+**In general:** Many of the world's pre-eminent neurologists were contacted and [RCH4 was met either with hostility or they failed to reply](/controversy).​ We tried to get assistance from Globally known Philanthropists, and the ALS funding sources. Repeatedly they declined to help us. ​No more could be done.
 
 With no interest from the Pharma Industry or from the ALS research community, and having exhausted every avenue of potential financial help from the ALS funding sources and others, the question arose as to what we were going to do about it. There were only two options available which raised a moral issue:
 
