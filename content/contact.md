@@ -47,8 +47,9 @@ sections:
           5/ Have you been told what your ALSFRS-R score is, and if so, what is it and when?  
 
           6/ Do you take Edaravone (Radicava)?  
-          
+
           7/ What other serious health condition/s do you have?  
+          
           8/ Are you allergic to
           anything, e.g., drugs, foods, nuts, pollen, etc.? 9/ Your age in
           years? 10/ What is, or was, your occupation or profession? 11/ Do you
