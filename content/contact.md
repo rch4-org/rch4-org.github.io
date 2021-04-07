@@ -58,7 +58,6 @@ sections:
         type: form_field
       - input_type: select
         label: Do you have a written diagnosis of ALS or MND?
-        default_value: 'yes'
         options:
           - 'yes'
           - 'no'
