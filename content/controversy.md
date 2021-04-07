@@ -14,6 +14,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        title: Controversy
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
