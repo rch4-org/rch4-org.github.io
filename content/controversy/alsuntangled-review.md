@@ -1,20 +1,6 @@
 ---
 title: alsuntangled-review
 sections:
-  - section_id: go-back-controversy
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_cta
   - section_id: go-back
     image_alt: lorem-ipsum
     background: gray
