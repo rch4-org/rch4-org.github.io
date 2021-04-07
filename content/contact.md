@@ -118,7 +118,8 @@ sections:
         name: blood-test
         label: Do you have a recent full blood test available?
         default_value: 'yes'
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Send Message
