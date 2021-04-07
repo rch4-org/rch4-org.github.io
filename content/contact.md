@@ -116,7 +116,7 @@ sections:
         is_required: true
       - input_type: select
         name: blood-test
-        label: lorem-ipsum
+        label: Do you have a recent full blood test available?
         default_value: lorem-ipsum
         options: []
         is_required: false
