@@ -99,7 +99,7 @@ sections:
         label: Do you take Edaravone (Radicava)?
         options:
           - 'yes'
-          - lorem-ipsum
+          - 'no'
         is_required: true
         type: form_field
       - input_type: textarea
