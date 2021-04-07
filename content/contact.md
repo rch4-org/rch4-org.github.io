@@ -104,7 +104,7 @@ sections:
         type: form_field
       - input_type: number
         name: age
-        label: lorem-ipsum
+        label: What is your age in years?
         default_value: lorem-ipsum
         options: []
         is_required: false
