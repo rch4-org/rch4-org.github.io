@@ -43,7 +43,6 @@ sections:
           can be contacted.
         is_required: true
       - input_type: text
-        name: Do you have a written diagnosis of ALS or MND?
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
