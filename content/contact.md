@@ -75,7 +75,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: text
-        name: ALSF
+        name: ALSFRS-R
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
