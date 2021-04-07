@@ -109,7 +109,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: occupation
         label: 'What is, or was, your occupation or profession?'
         default_value: lorem-ipsum
         options: []
