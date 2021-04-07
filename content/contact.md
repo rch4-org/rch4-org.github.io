@@ -135,7 +135,6 @@ sections:
         label: >-
           Do you have children under the age of 18 years? If so, what are their
           ages?
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
