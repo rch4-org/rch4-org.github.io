@@ -32,6 +32,21 @@ sections:
       - question: Commercial liquid feeding formulae for those with a gastrostomy
         answer: "Whereas\_being ready-made and\_are very convenient, we do not recommend the commercially manufactured feeding formulae as being suitable for this condition.\n\nWe have a lot of experience in this field.\nIt is\_considered\_that some favorite ingredients\_often used in these manufactured products are inappropriate, for example, soy protein. In the case of soy protein, among other issues, it contains phytic acid which reduces the absorption and restricts bioavailability.\nFurther, some of these otherwise innocuous ingredients are contraindicated in the case of neurodegenerative conditions as they can contain neurotoxins which under normal circumstances would be well tolerated. But undesirable in ALS/MND.\nA further example of an inappropriate ingredient\_normally found in commercial formulae is cheap corn syrup, whereas honey would be eminently more desirable but more expensive.\nFor those who have a gastrostomy, the diet must comprise of a high calorie, high fat, high\_animal\_(not\_a vegetable) protein diet.\nA normal \"bad\" diet (taking into account the previous\_sentence) of high\_cholesterol\_foods can be liquidized. Even \\`Big Mac\\` or \\`Kentucky Chicken\\` meals complete with their french fries (\"chips\") are\_far better than any commercial liquid feeding product.\n\nAlthough it has to be prepared, an example of the following put through a liquidizer is far more effective and preferable:\nChicken stock (which is highly nutritious and readily absorbed) should be used to adjust the viscosity\_of the following example ingredients:\nEggs (raw, hard-boiled, or fried)\nOily fish - perhaps sardines in oil, mackerel, etc.\nFatty lamb or beef\nRice and low roughage fresh\_vegetables\n\nAvoid roughage as it only acts as a filler with little nutritional value. Constipation is easily dealt\_with using a stool softener or laxative\_if required.\nWe\_recommend that you discuss the foregoing with your nutritionist or doctor. Do bear in mind that a nutritionist may have little experience with ALS\_which requires particular consideration. Maintaining weight, or gaining it if at all possible, is very important for the long-term future.\n"
         type: faq_item
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
 seo:
   title: ''
