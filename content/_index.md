@@ -47,11 +47,6 @@ sections:
         actions: []
         type: feature_item
     type: section_features
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
