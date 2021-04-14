@@ -30,6 +30,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/question.png
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
