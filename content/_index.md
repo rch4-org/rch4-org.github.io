@@ -39,7 +39,7 @@ sections:
         type: feature_item
         image: images/question.png
         title: Availability is scarse
-      - title: Experimental and not a cure
+      - title: RCH4 is an experimental drug
         content: "Notwithstanding no side effects\_over more than eighty patient-treatment years,\_and slowing or stopping the progression, the current status of this drug is experimental.\n\nWe cannot afford to do blinded, placebo-controlled clinical trials. Accordingly, although there exist decades of\_clinical data indicating notable safety and efficacy over decades\_of patient-years, in the absence of a 6-month\_trial (costing $millions)\_RCH4 must still be considered as an unproven treatment.\n"
         image_alt: lorem-ipsum
         actions: []
