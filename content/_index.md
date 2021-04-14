@@ -39,7 +39,7 @@ sections:
         actions: []
         type: feature_item
         image: images/cure.jpeg
-      - title: lorem-ipsum
+      - title: RCH4 may not work for you
         content: >
           Neurodegenerative conditions very rarely improve - if ever. This
           outlook may now be changing, but there can be no guarantees or
