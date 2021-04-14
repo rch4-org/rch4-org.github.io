@@ -75,7 +75,7 @@ params:
             label: Email
             default_value: Enter email address
             is_required: true
-        submit_label: Subscribe
+        submit_label: Register your interest
     has_nav: false
     nav_links:
       - label: Terms of Service
