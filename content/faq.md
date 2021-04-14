@@ -18,6 +18,21 @@ sections:
       - question: Stem cell treatment?
         answer: "Unless a formal, authorized clinical trial, again,\_***under no circumstances*** consider stem cell treatment from any of the many clinics advertising their services in this field. None of them can demonstrate any evidence of realistic efficacy, there are confirmed\_reports of some catastrophic outcomes and they charge very large sums of money.\nEven FDA-approved formal stem cell trials have never demonstrated a long-term slowing of the progression. If your clinic is reputable, they will advise you of this\_under the rules of \"Informed Patient Consent\".\n"
         type: faq_item
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
 seo:
   title: ''
