@@ -44,7 +44,7 @@ sections:
     title: Explore RCH4
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: About RCH4
         url: /signup
         style: primary
 seo:
