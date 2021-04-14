@@ -76,6 +76,24 @@ params:
             default_value: Enter email address
             is_required: true
         submit_label: Subscribe
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        form_id: lorem-ipsum
+        form_action: lorem-ipsum
+        hide_labels: false
+        form_fields: []
+        submit_label: lorem-ipsum
+        type: footer_form
     has_nav: false
     nav_links:
       - label: Terms of Service
