@@ -51,7 +51,7 @@ params:
         no_follow: false
         type: action
       - label: About ALS
-        url: '#'
+        url: /als
         style: link
         has_icon: false
         icon: arrow-left
