@@ -45,7 +45,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: About RCH4
-        url: /signup
+        url: /about_rch4
         style: primary
 seo:
   title: Stackbit Azimuth Theme
