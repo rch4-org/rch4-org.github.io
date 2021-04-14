@@ -26,7 +26,7 @@ sections:
           effective drug for ALS?  (also known as "MND" Motor Neuron Disease)?
         answer: "The\_Northeast ALS Consortium (NEALS) did a survey of clinicians\_and clinical researchers who concluded\_that any therapy that resulted in a change of 20% or greater in the slope of the ALSFRS-R would be clinically meaningful, but\_there was no therapy available to achieve it at that time.\nHowever, it would now appear that the clinical evidence indicates that RCH4 far exceeds the safety and efficacy of any treatment to date.\n\nWe must rely on the monthly monitoring reports from our PALS friends in fourteen\_countries (86% Europe & North America. Four Ethnicities) over some years, the accuracy of which we cannot independently verify.\nAccordingly, we make no claims about efficacy nor do we offer any interpretation of the data (as treatment is ongoing, data can change).\nThere are many reports on the Internet by\_users\_of RCH4 discussing\_safety and efficacy.\_For example, the\_'[**Patients Like Me**](https://www.patientslikeme.com/forum/als/topics/158688?page=8)' forum\_is possibly the most accurate and reliable forum on the Internet. However there are very minor errors in their software, e.g. total numbers of patients do not tally, starting dates are not all correct, number\_of evaluations do not tally exactly, etc.\n"
         type: faq_item
-      - question: '​​​​​​Vitamins, supplements, protocols, diets, and inoculations'
+      - question: '​​​​​​Vitamins, supplements, protocols, diets, and inoculations?'
         answer: >-
           ## Lorem ipsum
 
