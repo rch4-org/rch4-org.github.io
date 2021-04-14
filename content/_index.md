@@ -67,6 +67,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/question.png
     type: section_features
 seo:
   title: Stackbit Azimuth Theme
