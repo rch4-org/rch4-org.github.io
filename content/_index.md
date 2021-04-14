@@ -37,7 +37,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/question.png
+        image: images/avatar.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
