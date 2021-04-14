@@ -27,17 +27,7 @@ sections:
         answer: "The\_Northeast ALS Consortium (NEALS) did a survey of clinicians\_and clinical researchers who concluded\_that any therapy that resulted in a change of 20% or greater in the slope of the ALSFRS-R would be clinically meaningful, but\_there was no therapy available to achieve it at that time.\nHowever, it would now appear that the clinical evidence indicates that RCH4 far exceeds the safety and efficacy of any treatment to date.\n\nWe must rely on the monthly monitoring reports from our PALS friends in fourteen\_countries (86% Europe & North America. Four Ethnicities) over some years, the accuracy of which we cannot independently verify.\nAccordingly, we make no claims about efficacy nor do we offer any interpretation of the data (as treatment is ongoing, data can change).\nThere are many reports on the Internet by\_users\_of RCH4 discussing\_safety and efficacy.\_For example, the\_'[**Patients Like Me**](https://www.patientslikeme.com/forum/als/topics/158688?page=8)' forum\_is possibly the most accurate and reliable forum on the Internet. However there are very minor errors in their software, e.g. total numbers of patients do not tally, starting dates are not all correct, number\_of evaluations do not tally exactly, etc.\n"
         type: faq_item
       - question: '​​​​​​Vitamins, supplements, protocols, diets, and inoculations?'
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "Vitamins can indeed be helpful for general health in modest amounts but have no proven discernable benefit for ALS.\n\nThere is a vast range of supplements promoted by commercial entities.\_Some of which are recommended by PALS but are entirely unsuitable for ALS /MND, just leading to more problems. Some supplements actually exacerbate\_the neurological situation. Numerous studies have been done in a range of supplements, but none showed any statistical evidence of efficacy. In general, unless your doctor has a specific reason to recommend a particular supplement, we prefer if our PALS friends take none at all other than Vitamin C or/and Vitamin D\_and in some cases possibly B6 - in modest amounts.\n\nThere are some well-known \"Protocols\" that are virtually guaranteed to shorten the life of any PALS.\n\nPopular diets are unhelpful. Many of our PALS friends have a history of following fad diets, went to the gym more than once per week, were fitness enthusiasts, had a trauma accident, were in the military, or sold supplements. Therein surely rests\_a lesson. If you are a PALS, do not go to a gym. The diet which PALS should focus on is one of high fat, high protein, and high calorific value together with fresh green vegetables, and avoid high roughage content foods - again unless their doctor has a specific reason to recommend otherwise.\nPALS are hypermetabolic in that they burn some one-third more energy than average resulting in weight and muscle loss. Thus the high fat, high calorific diet is essential to counteract weight and energy loss.\_\nWe do not recommend winter Flu\_jabs for PALS because the risk of complications may outweigh the benefits, but you must be guided by your doctor. However, in order to protect the PALS from Influenza, it is recommended that caregivers themselves get the \\`Flu jab\\`.\n"
         type: faq_item
     type: section_faq
 seo:
