@@ -36,17 +36,7 @@ sections:
         answer: "As the ALSFRS-R score is a subjective observation, it will likely\_be scored differently by any two different people. It is said that the PALS must be scored by a\_specialist\_medical professional - but this is not the case.\nSee the\_evaluation study\_on\_the\_accuracy of online\_self-reporting \_[**here**](https://www.tandfonline.com/doi/abs/10.3109/17482968.2011.633268)\_ (Journal Amyotrophic Lateral Sclerosis\_Volume 13, 2012 -\_Issue 2)\n\nIn fact the precise\_ALSFRS-R score is not particularly relevant. What matters is the\_CHANGE in the score over exactly the same time periods.\nProvided that the SAME\_person (e.g., the patient or a caregiver)\_does the scoring every month\_over a long time,\_the submitted change in\_data is very accurate. Further, scoring by the same person over extended time ensures\_elimination of patient or carer bias as the submitted data would rapidly exceed the envelope of credibility.\n\nMonthly monitoring reports are submitted to us by all our PALS friends. This monthly\_information comprises 6\_health parameters.\nOne of these parameters\_is the ALSFRS-R score. This is an ongoing record of points allocated to 12 questions. As every monthly report form is submitted, the information is automatically picked up by a database, and the statistics updated in real-time. All interventions are known to aﬀect the course of disease (e.g., NIV, Trach., gastrostomy, etc.) are tracked.\nWe, therefore, maintain a very\_accurate analysis\_of each PALS,\_enabling pro-active ongoing management of their RCH4 treatment if possible.\n"
         type: faq_item
       - question: Treatment of pressure sores
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "For pressure sores we find the following treatment can be very effective:\n\n\n*   After flushing, the wound/pressure sore with sterile water, dry the surrounding area.\n\n*   Cover the wound with a layer of collagen powder about 2mm thick. This provides a framework to assist the new cells trying to fill in from the edges of the wound. The collagen does not need to be removed as the enzymes in the wound dissolve it over some time.\n\n*   Use\_manuka\_honey dressing on top of the collagen. The high sugar content kills the surface\_bioburden\_due to osmosis and keeps it sterile for a few days until it the honey dries or absorbed. Being of similar viscosity too thick treacle at body temperature, honey impregnated dressings do not adhere to the wound and are removed without any discomfort.\n\n*   Cover the honey dressing with a thick layer of soft cotton wool to offer protection from pressure or impact on the wound.\n\n*   Keep the cotton wool/honey dressing/collagen in place with adhesive tape.\n\n*   Repeat the procedure every few\_days.\n"
         type: faq_item
     type: section_faq
 seo:
