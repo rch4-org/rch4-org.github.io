@@ -38,6 +38,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/cure.jpeg
     type: section_features
   - section_id: call-to-action
     type: section_cta
