@@ -19,10 +19,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: lorem-ipsum
     title: Newly diagnosed?
     content: "## If you have been diagnosed with ALS and are potentially interested in taking this new\_drug you must first be fully aware of the following\n"
