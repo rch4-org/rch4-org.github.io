@@ -11,14 +11,6 @@ sections:
         url: /about_rch4
         style: primary
     title: RCH4 - a new ALS drug
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: lorem-ipsum
     title: Newly diagnosed?
     content: "## If you have been diagnosed with ALS and are potentially interested in taking this new\_drug you must first be fully aware of the following\n"
@@ -47,6 +39,15 @@ sections:
         actions: []
         type: feature_item
     type: section_features
+  - section_id: call-to-action
+    type: section_cta
+    title: This Is Call To Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
+  - null
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
