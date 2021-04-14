@@ -12,7 +12,7 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     faq_items:
-      - question: Fake counterfeit ALS drugs
+      - question: Fake counterfeit ALS drugs?
         answer: >-
           ## Lorem ipsum
 
