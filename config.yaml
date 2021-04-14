@@ -54,7 +54,7 @@ params:
       - type: footer_text
         image_url: /
         image_alt: Footer logo
-        title: RCH Drug
+        title: RCH4 Drug
       - type: footer_nav
         title: Company
         nav_links:
