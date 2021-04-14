@@ -47,7 +47,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - null
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
