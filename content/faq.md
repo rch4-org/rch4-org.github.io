@@ -38,6 +38,21 @@ sections:
       - question: Treatment of pressure sores
         answer: "For pressure sores we find the following treatment can be very effective:\n\n\n*   After flushing, the wound/pressure sore with sterile water, dry the surrounding area.\n\n*   Cover the wound with a layer of collagen powder about 2mm thick. This provides a framework to assist the new cells trying to fill in from the edges of the wound. The collagen does not need to be removed as the enzymes in the wound dissolve it over some time.\n\n*   Use\_manuka\_honey dressing on top of the collagen. The high sugar content kills the surface\_bioburden\_due to osmosis and keeps it sterile for a few days until it the honey dries or absorbed. Being of similar viscosity too thick treacle at body temperature, honey impregnated dressings do not adhere to the wound and are removed without any discomfort.\n\n*   Cover the honey dressing with a thick layer of soft cotton wool to offer protection from pressure or impact on the wound.\n\n*   Keep the cotton wool/honey dressing/collagen in place with adhesive tape.\n\n*   Repeat the procedure every few\_days.\n"
         type: faq_item
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
 seo:
   title: ''
