@@ -6,7 +6,7 @@ sections:
     faq_items: []
     type: section_faq
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: FAQ
     content: >-
       ## Lorem ipsum
 
