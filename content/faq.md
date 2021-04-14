@@ -21,6 +21,21 @@ sections:
       - question: Exercise?
         answer: "Whereas doctors\_rightly recommend that their patient should exercise to keep limbs and joints flexible as possible, but that must not be interpreted as doing workouts in\_the gym - or whatever.\nA physical therapist may be\_likely\_to set exertion goals for the patient to achieve - which is well-meaning, but a\_very\_bad idea and counterproductive for a PALS. Stretching is good, but not strenuous exertion.\nPALS are hypermetabolic, therefore should avoid strenuous exercise, conserve energy and focus on trying to\_maintain, or increase\_weight.\n"
         type: faq_item
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
 seo:
   title: ''
