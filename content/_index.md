@@ -31,7 +31,6 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     background: gray
     features:
       - content: "## If you have been diagnosed with ALS and are potentially interested in taking this new\_drug you must first be fully aware of the following\n\nJust because the drug is free does not mean it is cheap and useless. In fact, it is scarce and\_immensely expensive.\n\nDue to the lack of any external source of funding,\_we must pay\_the cost ourselves\_as a charitable undertaking, therefore the number of patients we can afford to treat\_is very limited. Accordingly,\_we avoid\_publicity or recognition. From time to time when we can afford\_to treat more PALS, we publish\_a temporary 'Contact us' page\_inviting those who may be interested to apply for help.\nIn every country, we must comply with both their laws and medical ethics. We require some documentation before we could consider helping you which includes an evaluation form, confirmed written diagnosis of ALS or MND from a neurology clinic, a recent blood test, doctor's prescription, Informed Patient Consent - and so on.\n\nYou may have issues that would preclude you from using this drug.\n"
