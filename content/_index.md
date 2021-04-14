@@ -36,8 +36,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
