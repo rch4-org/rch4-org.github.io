@@ -40,17 +40,44 @@ sections:
         type: feature_item
         image: images/cure.jpeg
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Neurodegenerative conditions very rarely improve - if ever. This
+          outlook may now be changing, but there can be no guarantees or
+          assurances of efficacy. Whereas it is imperative that one maintains a
+          positive mental attitude and optimism, likewise, it is most important
+          not to acquire unrealistic expectations.
+
+          A respected Professor of Neurology and a Principal Investigator for
+          ALS clinical trials, Dr. Jeremy Shefner, wisely observed: "As a
+          community, we are all vulnerable to being overly hopeful and accepting
+          on face value, preliminary data that is expressed positively.”
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          RCH4 may not help you - people differ in their response to any
+          medication. Whether or not you ask us for treatment is your decision.
 
 
-          - Lorem ipsum
+          On the basis of the current limited available evidence at this time (
+          > 6,000 doses by 2018), it may or probably slow the statistical
+          progression of your ALS. Some may have views about the implications of
+          living longer. (Refer to the above chart. Also, refer to EFFICACY).
 
-          - dolor sit amet
+
+          For some PALS, it stops the decline (it stabilizes) of their ALSFRS-R
+          score condition over time. Indeed for some - years. You should also
+          consider the implications of this.
+
+
+          ALS is a highly variable condition and PALS are also highly variable
+          in their response to treatment. Random charts for RCH4 which may be
+          representative of the overall ALS population can be seen HERE.
+
+
+          Although RCH4 has an outstanding safety record and no notable related
+          side effects have ever been reported to date after decades of
+          continual patient-treatment years, there is always the potential for
+          side effects with any drug. You would take RCH4 entirely at your own
+          risk.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
