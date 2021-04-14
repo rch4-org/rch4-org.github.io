@@ -39,17 +39,7 @@ sections:
         answer: "For pressure sores we find the following treatment can be very effective:\n\n\n*   After flushing, the wound/pressure sore with sterile water, dry the surrounding area.\n\n*   Cover the wound with a layer of collagen powder about 2mm thick. This provides a framework to assist the new cells trying to fill in from the edges of the wound. The collagen does not need to be removed as the enzymes in the wound dissolve it over some time.\n\n*   Use\_manuka\_honey dressing on top of the collagen. The high sugar content kills the surface\_bioburden\_due to osmosis and keeps it sterile for a few days until it the honey dries or absorbed. Being of similar viscosity too thick treacle at body temperature, honey impregnated dressings do not adhere to the wound and are removed without any discomfort.\n\n*   Cover the honey dressing with a thick layer of soft cotton wool to offer protection from pressure or impact on the wound.\n\n*   Keep the cotton wool/honey dressing/collagen in place with adhesive tape.\n\n*   Repeat the procedure every few\_days.\n"
         type: faq_item
       - question: The greatest dangers for a PALS
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "We have long experience in dealing with\_ALS victims, some for years of continuous treatment with RCH4, and have clearly identified the greatest dangers.\nPrevention is imperative\_[**SEE HERE**](https://www.mayoclinic.org/diseases-conditions/bed-sores/symptoms-causes/syc-20355893)\n\n*   Infections. Primarily lung, urinary tract, and gastrostomy or tracheostomy tube sites. Installing cheap isopropyl alcohol hand sanitizers throughout the household and used frequently by everyone - including every visitor - dramatically lowers infection occurrence.\n\n*   Weight loss. Every effort MUST be made to increase weight. Great attention must\_be paid to nutrition\n\n*   Maintaining a positive mental attitude and control of depression. Refer to the last paragraph on this page\n\n*   Falls and accidents resulting in injuries not recovered from, e.g., falling down stairs or onto a hard surface in the kitchen or bathroom. Installing a carpet or donning a cycle helmet will\_offer some protection in hard floor / tiled areas. Never use rugs as they cause tripping.-\n\n*   Pressure sores. These are totally avoidable with proper care. e.g., moving the patient at least every hour or more frequently. They are caused by restricted blood flow to the skin and can appear very quickly. Pressure sores can lead to serious complications.\n"
         type: faq_item
     type: section_faq
 seo:
