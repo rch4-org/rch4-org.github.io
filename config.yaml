@@ -61,9 +61,6 @@ params:
           - label: About Us
             url: /about
             style: link
-          - label: Blog
-            url: /blog
-            style: link
           - label: Contact
             url: /contact
             style: link
