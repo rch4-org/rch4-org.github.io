@@ -11,6 +11,15 @@ params:
       - label: Home
         url: /
         style: link
+      - label: About ALS
+        url: /als
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
       - label: About RCH4
         url: /about_rch4
         style: link
@@ -43,15 +52,6 @@ params:
         type: action
       - label: Contact Us
         url: /contact
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
-      - label: About ALS
-        url: /als
         style: link
         has_icon: false
         icon: arrow-left
