@@ -66,7 +66,8 @@ params:
             style: link
       - type: footer_form
         title: Subscribe
-        content: Stay up to date with our latest developments.
+        content: |
+          Register your interest here if the contact us page is not live.
         form_id: contactForm
         hide_labels: true
         form_fields:
