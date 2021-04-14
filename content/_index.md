@@ -27,7 +27,7 @@ sections:
     title: Newly diagnosed?
     content: "## If you have been diagnosed with ALS and are potentially interested in taking this new\_drug you must first be fully aware of the following\n"
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
   - section_id: lorem-ipsum
