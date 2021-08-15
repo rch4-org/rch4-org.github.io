@@ -5,7 +5,6 @@ sections:
   - section_id: contact
     type: section_content
     background: gray
-    title: Contact
     content: |
       Sorry, we are not accepting new patient at the moment.
   - section_id: lorem-ipsum
