@@ -6,6 +6,7 @@ sections:
     type: section_contact
     background: gray
     title: Contact
+    content: 
     content: >
       ​​We are a humanitarian voluntary charity that has provided the new
       experimental drug RCH4, always free of charge, for some years worldwide to
