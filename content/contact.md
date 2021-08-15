@@ -2,11 +2,12 @@
 draft: false
 title: Contact
 sections:
-#   - section_id: contact
-#     type: section_contact
-#     background: gray
-#     title: Contact
-#     content: >
+  - section_id: contact
+    type: section_contact
+    background: gray
+    title: Contact
+    content: >
+        We are not accepting new patient at the moment. You can register your interest using the 
 #   - section_id: contact
 #     type: section_contact
 #     background: gray
