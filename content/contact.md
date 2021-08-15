@@ -3,7 +3,7 @@ draft: false
 title: Contact
 sections:
   - section_id: contact
-    type: section_contact
+    type: section_content
     background: gray
     title: Contact
     content: >
