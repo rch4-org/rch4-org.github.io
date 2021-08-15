@@ -7,7 +7,7 @@ sections:
     background: gray
     title: Contact
     content: >
-        We are not accepting new patient at the moment. You can register your interest using the 
+        Sorry, we are not accepting new patient at the moment.
 #   - section_id: contact
 #     type: section_contact
 #     background: gray
