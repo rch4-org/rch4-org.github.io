@@ -163,7 +163,7 @@ sections:
 #         is_required: true
 #     submit_label: Send Message
 #     hide_labels: false
-#     form_action: 'https://formspree.io/f/myylgvzr'
+#     form_action: 'https://formspree.io/f/mleayveg'
 seo:
   title: Contact
   description: This is the contact page
