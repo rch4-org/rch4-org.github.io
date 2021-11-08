@@ -69,6 +69,7 @@ params:
         content: |
           Register your interest here if the contact us page is not live.
         form_id: contactForm
+        form_action
         hide_labels: true
         form_fields:
           - input_type: email
